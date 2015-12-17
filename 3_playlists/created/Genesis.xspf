@@ -1,0 +1,156 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Genesis</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6865304</meta>
+  <meta rel="https://rdio.com/xspf/name">Genesis</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6865304/Genesis/</meta>
+  <trackList>
+    <track>
+      <title>I Know What I Like (In Your Wardrobe) [New Stereo Mix]</title>
+      <creator>Genesis</creator>
+      <album>Selling England By The Pound</album>
+      <trackNum>2</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0701760</meta>
+    </track>
+    <track>
+      <title>The Fountain Of Salmacis (New Stereo Mix)</title>
+      <creator>Genesis</creator>
+      <album>Nursery Cryme</album>
+      <trackNum>7</trackNum>
+      <duration>481000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0701734</meta>
+    </track>
+    <track>
+      <title>Man Of Our Times (2007 Remastered)</title>
+      <creator>Genesis</creator>
+      <album>Duke [2007 Remaster]</album>
+      <trackNum>4</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700121</meta>
+    </track>
+    <track>
+      <title>The Return Of The Giant Hogweed [Live]</title>
+      <creator>Genesis</creator>
+      <album>Genesis Live</album>
+      <trackNum>3</trackNum>
+      <duration>494000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9400483</meta>
+    </track>
+    <track>
+      <title>Squonk (Live Version From Seconds Out)</title>
+      <creator>Genesis</creator>
+      <album>Seconds Out</album>
+      <trackNum>1</trackNum>
+      <duration>396000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20621367</meta>
+    </track>
+    <track>
+      <title>Looking For Someone</title>
+      <creator>Genesis</creator>
+      <album>Trespass</album>
+      <trackNum>1</trackNum>
+      <duration>427000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17449518</meta>
+    </track>
+    <track>
+      <title>Duchess (Live Version From Three Sides Live)</title>
+      <creator>Genesis</creator>
+      <album>Three Sides Live</album>
+      <trackNum>5</trackNum>
+      <duration>398000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9400459</meta>
+    </track>
+    <track>
+      <title>Los Endos</title>
+      <creator>Genesis</creator>
+      <album>A Trick Of The Tail</album>
+      <trackNum>8</trackNum>
+      <duration>346000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9400522</meta>
+    </track>
+    <track>
+      <title>Turn It On Again (2007 Remastered Version)</title>
+      <creator>Genesis</creator>
+      <album>Duke [2007 Remaster]</album>
+      <trackNum>7</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700125</meta>
+    </track>
+    <track>
+      <title>Dance On A Volcano</title>
+      <creator>Genesis</creator>
+      <album>A Trick Of The Tail</album>
+      <trackNum>1</trackNum>
+      <duration>355000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9400415</meta>
+    </track>
+    <track>
+      <title>Watcher Of The Skies (New Stereo Mix)</title>
+      <creator>Genesis</creator>
+      <album>Foxtrot</album>
+      <trackNum>1</trackNum>
+      <duration>443000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0701742</meta>
+    </track>
+    <track>
+      <title>Down And Out (2007 Remastered)</title>
+      <creator>Genesis</creator>
+      <album>And Then There Were Three [2007 Remaster]</album>
+      <trackNum>1</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700072</meta>
+    </track>
+    <track>
+      <title>Follow You Follow Me (2007 Remastered Version)</title>
+      <creator>Genesis</creator>
+      <album>And Then There Were Three [2007 Remaster]</album>
+      <trackNum>11</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700083</meta>
+    </track>
+    <track>
+      <title>Abacab (2007 Remastered Version)</title>
+      <creator>Genesis</creator>
+      <album>Abacab [2007 Remaster]</album>
+      <trackNum>1</trackNum>
+      <duration>418000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700175</meta>
+    </track>
+    <track>
+      <title>Deep In The Motherlode (2007 Remastered)</title>
+      <creator>Genesis</creator>
+      <album>And Then There Were Three [2007 Remaster]</album>
+      <trackNum>6</trackNum>
+      <duration>315000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700078</meta>
+    </track>
+    <track>
+      <title>Behind The Lines</title>
+      <creator>Genesis</creator>
+      <album>Duke</album>
+      <trackNum>1</trackNum>
+      <duration>341000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9400434</meta>
+    </track>
+    <track>
+      <title>Another Record (2007 Remastered Version)</title>
+      <creator>Genesis</creator>
+      <album>Abacab [2007 Remaster]</album>
+      <trackNum>9</trackNum>
+      <duration>279000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0700174</meta>
+    </track>
+    <track>
+      <title>The Knife</title>
+      <creator>Genesis</creator>
+      <album>Trespass</album>
+      <trackNum>6</trackNum>
+      <duration>540000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17449523</meta>
+    </track>
+  </trackList>
+</playlist>

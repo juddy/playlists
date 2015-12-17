@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>-33%RPM</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7349843</meta>
+  <meta rel="https://rdio.com/xspf/name">-33%RPM</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7349843/-33RPM/</meta>
+  <trackList>
+    <track>
+      <title>Cause Of Death (Reissue)</title>
+      <creator>Obituary</creator>
+      <album>Cause of Death (Reissue)</album>
+      <trackNum>7</trackNum>
+      <duration>339000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLA329780566</meta>
+    </track>
+    <track>
+      <title>Immortal Rites</title>
+      <creator>Morbid Angel</creator>
+      <album>Altars Of Madness</album>
+      <trackNum>1</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPB0401548</meta>
+    </track>
+    <track>
+      <title>Altar Of Sacrifice</title>
+      <creator>Slayer</creator>
+      <album>Reign In Blood (Expanded)</album>
+      <trackNum>4</trackNum>
+      <duration>170000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18600236</meta>
+    </track>
+    <track>
+      <title>Criminally Insane</title>
+      <creator>Slayer</creator>
+      <album>Reign In Blood (Expanded)</album>
+      <trackNum>6</trackNum>
+      <duration>143000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18600238</meta>
+    </track>
+    <track>
+      <title>Hooch</title>
+      <creator>Melvins</creator>
+      <album>Houdini</album>
+      <trackNum>1</trackNum>
+      <duration>171000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20103375</meta>
+    </track>
+    <track>
+      <title>War Ensemble</title>
+      <creator>Slayer</creator>
+      <album>Seasons In The Abyss</album>
+      <trackNum>1</trackNum>
+      <duration>292000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLIC0700851,USSM19000321</meta>
+    </track>
+    <track>
+      <title>Torn To Pieces</title>
+      <creator>Death</creator>
+      <album>Scream Bloody Gore</album>
+      <trackNum>8</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2641020008</meta>
+    </track>
+    <track>
+      <title>Leprosy</title>
+      <creator>Death</creator>
+      <album>Leprosy</album>
+      <trackNum>1</trackNum>
+      <duration>380000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2641005101</meta>
+    </track>
+    <track>
+      <title>Primitive Ways</title>
+      <creator>Death</creator>
+      <album>Leprosy</album>
+      <trackNum>7</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2641005107</meta>
+    </track>
+    <track>
+      <title>Hole In The Sky</title>
+      <creator>Black Sabbath</creator>
+      <album>Sabotage</album>
+      <trackNum>1</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304559</meta>
+    </track>
+    <track>
+      <title>Holy Mountain</title>
+      <creator>Sleep</creator>
+      <album>Sleeps Holy Mountain</album>
+      <trackNum>6</trackNum>
+      <duration>524000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPB0400655</meta>
+    </track>
+  </trackList>
+</playlist>

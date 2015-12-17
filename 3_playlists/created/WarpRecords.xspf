@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>WarpRecords</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p13074343</meta>
+  <meta rel="https://rdio.com/xspf/name">WarpRecords</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/13074343/WarpRecords/</meta>
+  <trackList>
+    <track>
+      <title>Look Into The Heart Now</title>
+      <creator>Clark</creator>
+      <album>Totems Flare</album>
+      <trackNum>4</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0900108</meta>
+    </track>
+    <track>
+      <title>Bucephalus Bouncing Ball</title>
+      <creator>Aphex Twin</creator>
+      <album>Come To Daddy</album>
+      <trackNum>4</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSI10180076,GBBPW9700079</meta>
+    </track>
+    <track>
+      <title>Baltang Ort</title>
+      <creator>Squarepusher</creator>
+      <album>Damogen Furies</album>
+      <trackNum>2</trackNum>
+      <duration>374000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500015</meta>
+    </track>
+    <track>
+      <title>4</title>
+      <creator>Aphex Twin</creator>
+      <album>Richard D. James Album</album>
+      <trackNum>1</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSI19601001</meta>
+    </track>
+    <track>
+      <title>Winter Linn</title>
+      <creator>Clark</creator>
+      <album>Clark</album>
+      <trackNum>2</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400212</meta>
+    </track>
+    <track>
+      <title>Coopers World</title>
+      <creator>Squarepusher</creator>
+      <album>Hard Normal Daddy</album>
+      <trackNum>1</trackNum>
+      <duration>309000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW9700033</meta>
+    </track>
+  </trackList>
+</playlist>

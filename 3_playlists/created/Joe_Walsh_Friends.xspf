@@ -1,0 +1,148 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Joe Walsh &amp; Friends</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6736785</meta>
+  <meta rel="https://rdio.com/xspf/name">Joe Walsh &amp; Friends</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6736785/Joe_Walsh__Friends/</meta>
+  <trackList>
+    <track>
+      <title>The Confessor</title>
+      <creator>Joe Walsh</creator>
+      <album>The Confessor</album>
+      <trackNum>6</trackNum>
+      <duration>427000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10104635</meta>
+    </track>
+    <track>
+      <title>In The City</title>
+      <creator>Eagles</creator>
+      <album>The Very Best Of The Eagles</album>
+      <trackNum>28</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE11300336</meta>
+    </track>
+    <track>
+      <title>Those Shoes</title>
+      <creator>Eagles</creator>
+      <album>The Very Best Of The Eagles</album>
+      <trackNum>29</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE11300340</meta>
+    </track>
+    <track>
+      <title>Funk #49</title>
+      <creator>James Gang</creator>
+      <album>The James Gang Greatest Hits</album>
+      <trackNum>5</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17351699</meta>
+    </track>
+    <track>
+      <title>Walk Away</title>
+      <creator>James Gang</creator>
+      <album>The James Gang Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>213000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17144507</meta>
+    </track>
+    <track>
+      <title>Rocky Mountain Way</title>
+      <creator>Joe Walsh</creator>
+      <album>Rocky Mountain Way</album>
+      <trackNum>1</trackNum>
+      <duration>315000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17444516</meta>
+    </track>
+    <track>
+      <title>Midnight Man</title>
+      <creator>Joe Walsh</creator>
+      <album>20th Century Masters: The Millennium Collection: Best Of Joe Walsh</album>
+      <trackNum>3</trackNum>
+      <duration>211000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17144509</meta>
+    </track>
+    <track>
+      <title>County Fair</title>
+      <creator>Joe Walsh</creator>
+      <album>20th Century Masters: The Millennium Collection: Best Of Joe Walsh</album>
+      <trackNum>8</trackNum>
+      <duration>406000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17544519</meta>
+    </track>
+    <track>
+      <title>Already Gone</title>
+      <creator>Eagles</creator>
+      <album>On The Border (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>255000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE11300324</meta>
+    </track>
+    <track>
+      <title>Good Day In Hell</title>
+      <creator>Eagles</creator>
+      <album>On The Border (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>265000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE11300332</meta>
+    </track>
+    <track>
+      <title>Meadows</title>
+      <creator>Joe Walsh</creator>
+      <album>The Smoker You Drink, The Player You Get</album>
+      <trackNum>6</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17346411</meta>
+    </track>
+    <track>
+      <title>Over And Over</title>
+      <creator>Joe Walsh</creator>
+      <album>But Seriously, Folks...</album>
+      <trackNum>1</trackNum>
+      <duration>292000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901055</meta>
+    </track>
+    <track>
+      <title>At The Station</title>
+      <creator>Joe Walsh</creator>
+      <album>But Seriously, Folks...</album>
+      <trackNum>4</trackNum>
+      <duration>308000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901058</meta>
+    </track>
+    <track>
+      <title>A Life Of Illusion</title>
+      <creator>Joe Walsh</creator>
+      <album>Joe Walsh's Greatest Hits: Little Did He Know...</album>
+      <trackNum>14</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0122104</meta>
+    </track>
+    <track>
+      <title>Turn To Stone</title>
+      <creator>Joe Walsh</creator>
+      <album>Joe Walsh's Greatest Hits: Little Did He Know...</album>
+      <trackNum>7</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17244513</meta>
+    </track>
+    <track>
+      <title>Mother Says</title>
+      <creator>Joe Walsh</creator>
+      <album>Barnstorm</album>
+      <trackNum>5</trackNum>
+      <duration>375000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10500485</meta>
+    </track>
+    <track>
+      <title>Home</title>
+      <creator>Joe Walsh</creator>
+      <album>Barnstorm</album>
+      <trackNum>7</trackNum>
+      <duration>174000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10500487</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Yes!</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7176062</meta>
+  <meta rel="https://rdio.com/xspf/name">Yes!</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7176062/Yes!/</meta>
+  <trackList>
+    <track>
+      <title>Starship Trooper [A. Life Seeker; B. Disillusion; C. Wurm]</title>
+      <creator>Yes</creator>
+      <album>The Yes Album</album>
+      <trackNum>3</trackNum>
+      <duration>568000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10801568</meta>
+    </track>
+    <track>
+      <title>Heart Of The Sunrise (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Fragile (Deluxe Version)</album>
+      <trackNum>9</trackNum>
+      <duration>688000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10251893</meta>
+    </track>
+    <track>
+      <title>Close To The Edge (I. The Solid Time Of Change, II. Total Mass Retain, III. I Get Up I Get Down, IV. Seasons Of Man) (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Close To The Edge (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>1121000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301024</meta>
+    </track>
+    <track>
+      <title>We Have Heaven (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Fragile (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>100000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10251887</meta>
+    </track>
+    <track>
+      <title>Total Mass Retain (Remastered Single Version)</title>
+      <creator>Yes</creator>
+      <album>Close To The Edge (Deluxe Version)</album>
+      <trackNum>5</trackNum>
+      <duration>199000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301050</meta>
+    </track>
+    <track>
+      <title>Yours Is No Disgrace</title>
+      <creator>Yes</creator>
+      <album>The Yes Album</album>
+      <trackNum>1</trackNum>
+      <duration>580000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10801566</meta>
+    </track>
+    <track>
+      <title>Astral Traveller</title>
+      <creator>Yes</creator>
+      <album>Time And A Word</album>
+      <trackNum>7</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEW29400057</meta>
+    </track>
+    <track>
+      <title>Sound Chaser (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Relayer (Deluxe Version)</album>
+      <trackNum>2</trackNum>
+      <duration>566000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301003</meta>
+    </track>
+    <track>
+      <title>To Be Over (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Relayer (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>546000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301004</meta>
+    </track>
+    <track>
+      <title>Siberian Khatru (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Close To The Edge (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>535000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301026</meta>
+    </track>
+  </trackList>
+</playlist>

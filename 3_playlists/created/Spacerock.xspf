@@ -1,0 +1,108 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Spacerock</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7394119</meta>
+  <meta rel="https://rdio.com/xspf/name">Spacerock</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7394119/Spacerock/</meta>
+  <trackList>
+    <track>
+      <title>Cygnus X-1</title>
+      <creator>Rush</creator>
+      <album>A Farewell To Kings</album>
+      <trackNum>6</trackNum>
+      <duration>621000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAA310600400,USMR17780110</meta>
+    </track>
+    <track>
+      <title>Cygnus X-1</title>
+      <creator>Rush</creator>
+      <album>Hemispheres</album>
+      <trackNum>1</trackNum>
+      <duration>1088000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR17880083</meta>
+    </track>
+    <track>
+      <title>Lirik Necronomicus Kant</title>
+      <creator>Magma</creator>
+      <album>Attahk</album>
+      <trackNum>4</trackNum>
+      <duration>305000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFB20603600</meta>
+    </track>
+    <track>
+      <title>Spiritual</title>
+      <creator>Magma</creator>
+      <album>Attahk</album>
+      <trackNum>2</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFB20603598</meta>
+    </track>
+    <track>
+      <title>By-Tor And The Snow Dog</title>
+      <creator>Rush</creator>
+      <album>Fly By Night</album>
+      <trackNum>4</trackNum>
+      <duration>517000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR17500039,CAA310600342</meta>
+    </track>
+    <track>
+      <title>You Shouldn't Do That (1996 Remastered Version)</title>
+      <creator>Hawkwind</creator>
+      <album>In Search Of Space</album>
+      <trackNum>1</trackNum>
+      <duration>941000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9600501</meta>
+    </track>
+    <track>
+      <title>Wreltch</title>
+      <creator>Ozric Tentacles</creator>
+      <album>Pungent Effulgent</album>
+      <trackNum>9</trackNum>
+      <duration>511000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCQV8900118</meta>
+    </track>
+    <track>
+      <title>Sonic Attack</title>
+      <creator>Hawkwind</creator>
+      <album>Space Ritual Vol. 2</album>
+      <trackNum>4</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHS0800504</meta>
+    </track>
+    <track>
+      <title>Disturbance</title>
+      <creator>The Legendary Pink Dots</creator>
+      <album>Maria Dimension</album>
+      <trackNum>1</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0403000</meta>
+    </track>
+    <track>
+      <title>Steppenwolf</title>
+      <creator>Hawkwind</creator>
+      <album>Astounding Sounds, Amazing Music</album>
+      <trackNum>2</trackNum>
+      <duration>586000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBLY0802708</meta>
+    </track>
+    <track>
+      <title>Earthen Gate</title>
+      <creator>Fuzz</creator>
+      <album>Fuzz</album>
+      <trackNum>1</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1310072</meta>
+    </track>
+    <track>
+      <title>Battle Theme</title>
+      <creator>Queen</creator>
+      <album>Flash Gordon (Deluxe Remastered Version)</album>
+      <trackNum>13</trackNum>
+      <duration>138000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71103349</meta>
+    </track>
+  </trackList>
+</playlist>

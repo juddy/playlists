@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Buffett</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p15248727</meta>
+  <meta rel="https://rdio.com/xspf/name">Buffett</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/15248727/Buffett/</meta>
+  <trackList>
+    <track>
+      <title>Fins</title>
+      <creator>Jimmy Buffett</creator>
+      <album>Songs You Know By Heart</album>
+      <trackNum>3</trackNum>
+      <duration>205000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17908751</meta>
+    </track>
+    <track>
+      <title>Fruitcakes</title>
+      <creator>Jimmy Buffett</creator>
+      <album>Fruitcakes</album>
+      <trackNum>2</trackNum>
+      <duration>459000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC19442817</meta>
+    </track>
+    <track>
+      <title>Cheeseburger In Paradise</title>
+      <creator>Jimmy Buffett</creator>
+      <album>Songs You Know By Heart</album>
+      <trackNum>1</trackNum>
+      <duration>172000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17800110</meta>
+    </track>
+    <track>
+      <title>Pencil Thin Mustache</title>
+      <creator>Jimmy Buffett</creator>
+      <album>Living And Dying In 3 / 4 Time</album>
+      <trackNum>1</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17418893</meta>
+    </track>
+    <track>
+      <title>God's Own Drunk</title>
+      <creator>Jimmy Buffett</creator>
+      <album>Living And Dying In 3 / 4 Time</album>
+      <trackNum>11</trackNum>
+      <duration>381000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10111120</meta>
+    </track>
+  </trackList>
+</playlist>

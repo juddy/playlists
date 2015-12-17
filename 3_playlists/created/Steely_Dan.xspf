@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Steely Dan</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p12782481</meta>
+  <meta rel="https://rdio.com/xspf/name">Steely Dan</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/12782481/Steely_Dan/</meta>
+  <trackList>
+    <track>
+      <title>Your Gold Teeth</title>
+      <creator>Steely Dan</creator>
+      <album>Countdown To Ecstasy</album>
+      <trackNum>4</trackNum>
+      <duration>419000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17347192</meta>
+    </track>
+    <track>
+      <title>Kid Charlemagne</title>
+      <creator>Steely Dan</creator>
+      <album>The Royal Scam</album>
+      <trackNum>1</trackNum>
+      <duration>279000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17547218</meta>
+    </track>
+    <track>
+      <title>Any Major Dude Will Tell You</title>
+      <creator>Steely Dan</creator>
+      <album>Pretzel Logic</album>
+      <trackNum>3</trackNum>
+      <duration>187000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447198</meta>
+    </track>
+    <track>
+      <title>Babylon Sisters</title>
+      <creator>Steely Dan</creator>
+      <album>Gaucho</album>
+      <trackNum>1</trackNum>
+      <duration>353000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17847236</meta>
+    </track>
+    <track>
+      <title>Time Out Of Mind</title>
+      <creator>Steely Dan</creator>
+      <album>Gaucho</album>
+      <trackNum>5</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17847240</meta>
+    </track>
+    <track>
+      <title>Night By Night</title>
+      <creator>Steely Dan</creator>
+      <album>Pretzel Logic</album>
+      <trackNum>2</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447197</meta>
+    </track>
+    <track>
+      <title>Sign In Stranger</title>
+      <creator>Steely Dan</creator>
+      <album>The Royal Scam</album>
+      <trackNum>4</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17547221</meta>
+    </track>
+    <track>
+      <title>Third World Man</title>
+      <creator>Steely Dan</creator>
+      <album>Gaucho</album>
+      <trackNum>7</trackNum>
+      <duration>314000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17947242</meta>
+    </track>
+    <track>
+      <title>The Royal Scam</title>
+      <creator>Steely Dan</creator>
+      <album>The Royal Scam</album>
+      <trackNum>9</trackNum>
+      <duration>391000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17547226</meta>
+    </track>
+    <track>
+      <title>Chain Lightning</title>
+      <creator>Steely Dan</creator>
+      <album>Katy Lied</album>
+      <trackNum>8</trackNum>
+      <duration>180000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447214</meta>
+    </track>
+    <track>
+      <title>Bodhisattva</title>
+      <creator>Steely Dan</creator>
+      <album>Countdown To Ecstasy</album>
+      <trackNum>1</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17347189</meta>
+    </track>
+    <track>
+      <title>Any World (That I'm Welcome To)</title>
+      <creator>Steely Dan</creator>
+      <album>Katy Lied</album>
+      <trackNum>9</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447216</meta>
+    </track>
+    <track>
+      <title>Rikki Don't Lose That Number</title>
+      <creator>Steely Dan</creator>
+      <album>Pretzel Logic</album>
+      <trackNum>1</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447196</meta>
+    </track>
+    <track>
+      <title>Your Gold Teeth II</title>
+      <creator>Steely Dan</creator>
+      <album>Katy Lied</album>
+      <trackNum>7</trackNum>
+      <duration>252000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17447215</meta>
+    </track>
+  </trackList>
+</playlist>

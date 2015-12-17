@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>McLaughlin</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p13719673</meta>
+  <meta rel="https://rdio.com/xspf/name">McLaughlin</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/13719673/McLaughlin/</meta>
+  <trackList>
+    <track>
+      <title>John McLaughlin</title>
+      <creator>Miles Davis</creator>
+      <album>Bitches Brew (Legacy Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM16900317</meta>
+    </track>
+    <track>
+      <title>Miles Davis (Album Version)</title>
+      <creator>John McLaughlin, The One Truth Band</creator>
+      <album>Electric Dreams</album>
+      <trackNum>2</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10023212</meta>
+    </track>
+    <track>
+      <title>Birds of Fire</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>Birds Of Fire</album>
+      <trackNum>1</trackNum>
+      <duration>341000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17200737</meta>
+    </track>
+  </trackList>
+</playlist>

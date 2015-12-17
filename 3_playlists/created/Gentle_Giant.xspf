@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Gentle Giant</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7081870</meta>
+  <meta rel="https://rdio.com/xspf/name">Gentle Giant</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7081870/Gentle_Giant/</meta>
+  <trackList>
+    <track>
+      <title>No God's A Man</title>
+      <creator>Gentle Giant</creator>
+      <album>The Power And The Glory</album>
+      <trackNum>6</trackNum>
+      <duration>266000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400443</meta>
+    </track>
+    <track>
+      <title>Design</title>
+      <creator>Gentle Giant</creator>
+      <album>Interview</album>
+      <trackNum>3</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400450</meta>
+    </track>
+    <track>
+      <title>River</title>
+      <creator>Gentle Giant</creator>
+      <album>Octopus</album>
+      <trackNum>8</trackNum>
+      <duration>359000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5XG0900107</meta>
+    </track>
+    <track>
+      <title>Prologue</title>
+      <creator>Gentle Giant</creator>
+      <album>Three Friends</album>
+      <trackNum>1</trackNum>
+      <duration>370000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17200778,FR6V81188771</meta>
+    </track>
+    <track>
+      <title>Cogs in Cogs</title>
+      <creator>Gentle Giant</creator>
+      <album>The Power And The Glory</album>
+      <trackNum>5</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400442</meta>
+    </track>
+    <track>
+      <title>Black Cat</title>
+      <creator>Gentle Giant</creator>
+      <album>Acquiring The Taste</album>
+      <trackNum>7</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF087100575</meta>
+    </track>
+    <track>
+      <title>As Old As You're Young</title>
+      <creator>Gentle Giant</creator>
+      <album>The Missing Piece</album>
+      <trackNum>6</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400486</meta>
+    </track>
+    <track>
+      <title>Knots</title>
+      <creator>Gentle Giant</creator>
+      <album>Octopus</album>
+      <trackNum>4</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5XG0900103</meta>
+    </track>
+    <track>
+      <title>Timing</title>
+      <creator>Gentle Giant</creator>
+      <album>Interview</album>
+      <trackNum>6</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400453</meta>
+    </track>
+    <track>
+      <title>Another Show</title>
+      <creator>Gentle Giant</creator>
+      <album>Interview</album>
+      <trackNum>4</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400451</meta>
+    </track>
+    <track>
+      <title>Three Friends</title>
+      <creator>Gentle Giant</creator>
+      <album>Three Friends</album>
+      <trackNum>6</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10026438,FR6V81188776</meta>
+    </track>
+    <track>
+      <title>For Nobody</title>
+      <creator>Gentle Giant</creator>
+      <album>The Missing Piece</album>
+      <trackNum>9</trackNum>
+      <duration>246000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400489</meta>
+    </track>
+    <track>
+      <title>Words From The Wise</title>
+      <creator>Gentle Giant</creator>
+      <album>Giant For A Day</album>
+      <trackNum>1</trackNum>
+      <duration>254000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4D40400491</meta>
+    </track>
+  </trackList>
+</playlist>

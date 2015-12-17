@@ -1,0 +1,140 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Guilty Pleasure</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p12226383</meta>
+  <meta rel="https://rdio.com/xspf/name">Guilty Pleasure</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/12226383/Guilty_Pleasure/</meta>
+  <trackList>
+    <track>
+      <title>How Soon Is Now?</title>
+      <creator>The Smiths</creator>
+      <album>The Sound Of The Smiths (Standard Digital Version) (Standard Digital Version)</album>
+      <trackNum>7</trackNum>
+      <duration>406000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCRL0800322</meta>
+    </track>
+    <track>
+      <title>Rock Me Amadeus</title>
+      <creator>Falco</creator>
+      <album>The Ultimate Collection</album>
+      <trackNum>1</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ATB158500018</meta>
+    </track>
+    <track>
+      <title>Pressure (Album Version)</title>
+      <creator>Billy Joel</creator>
+      <album>Greatest Hits Volume I &amp; Volume II</album>
+      <trackNum>18</trackNum>
+      <duration>277000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18200232</meta>
+    </track>
+    <track>
+      <title>Neutron Dance (Radio Mix)</title>
+      <creator>The Pointer Sisters</creator>
+      <album>The Best Of The Pointer Sisters</album>
+      <trackNum>14</trackNum>
+      <duration>254000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC19901796</meta>
+    </track>
+    <track>
+      <title>Throwing It All Away</title>
+      <creator>Genesis</creator>
+      <album>Platinum Collection</album>
+      <trackNum>6</trackNum>
+      <duration>230000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRHD0900221</meta>
+    </track>
+    <track>
+      <title>You Spin Me Round (Like a Record)</title>
+      <creator>Dead Or Alive</creator>
+      <album>That's The Way I Like It: The Best of Dead Or Alive</album>
+      <trackNum>1</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBBM8400015</meta>
+    </track>
+    <track>
+      <title>Inside Out</title>
+      <creator>Phil Collins</creator>
+      <album>No Jacket Required</album>
+      <trackNum>9</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWI19600228,GBAAA8500195</meta>
+    </track>
+    <track>
+      <title>We Built This City</title>
+      <creator>Starship</creator>
+      <album>80s Mania</album>
+      <trackNum>4</trackNum>
+      <duration>363000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560846947</meta>
+    </track>
+    <track>
+      <title>Rosanna</title>
+      <creator>Toto</creator>
+      <album>Toto IV</album>
+      <trackNum>1</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18200245</meta>
+    </track>
+    <track>
+      <title>Vacation</title>
+      <creator>Go-Go's</creator>
+      <album>Return To The Valley Of The Go-Go's</album>
+      <trackNum>20</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR39400020</meta>
+    </track>
+    <track>
+      <title>Do You Really Want to Hurt Me (2002 - Remaster)</title>
+      <creator>Culture Club</creator>
+      <album>Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>261000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0201000</meta>
+    </track>
+    <track>
+      <title>Hungry Like The Wolf</title>
+      <creator>Duran Duran</creator>
+      <album>Greatest</album>
+      <trackNum>7</trackNum>
+      <duration>205000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE8200051</meta>
+    </track>
+    <track>
+      <title>Girls On Film</title>
+      <creator>Duran Duran</creator>
+      <album>Greatest</album>
+      <trackNum>8</trackNum>
+      <duration>207000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE8100039</meta>
+    </track>
+    <track>
+      <title>Rio (US Edit)</title>
+      <creator>Duran Duran</creator>
+      <album>Greatest</album>
+      <trackNum>6</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE8200090</meta>
+    </track>
+    <track>
+      <title>The Safety Dance</title>
+      <creator>Men Without Hats</creator>
+      <album>Rhythm of Youth</album>
+      <trackNum>2</trackNum>
+      <duration>277000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAU111016913</meta>
+    </track>
+    <track>
+      <title>Oh Yeah</title>
+      <creator>Yello</creator>
+      <album>Stella</album>
+      <trackNum>3</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEUM70500258</meta>
+    </track>
+  </trackList>
+</playlist>

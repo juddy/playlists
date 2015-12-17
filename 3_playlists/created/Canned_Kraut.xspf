@@ -1,0 +1,172 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Canned Kraut</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6309837</meta>
+  <meta rel="https://rdio.com/xspf/name">Canned Kraut</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6309837/Canned_Kraut/</meta>
+  <trackList>
+    <track>
+      <title>Safe</title>
+      <creator>Can</creator>
+      <album>Inner Space / Out Of Reach</album>
+      <trackNum>2</trackNum>
+      <duration>508000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBQRF0712165</meta>
+    </track>
+    <track>
+      <title>Abra Cada Braxas</title>
+      <creator>Can</creator>
+      <album>The Lost Tapes</album>
+      <trackNum>17</trackNum>
+      <duration>612000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX171225517</meta>
+    </track>
+    <track>
+      <title>All Gates Open</title>
+      <creator>Can</creator>
+      <album>Can (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>497000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522801</meta>
+    </track>
+    <track>
+      <title>Chain Reaction</title>
+      <creator>Can</creator>
+      <album>Soon Over Babaluma (Remastered Version)</album>
+      <trackNum>4</trackNum>
+      <duration>669000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170521004</meta>
+    </track>
+    <track>
+      <title>Future Days</title>
+      <creator>Can</creator>
+      <album>Future Days (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>569000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170520901</meta>
+    </track>
+    <track>
+      <title>I'm So Green (2004 Remastered Version)</title>
+      <creator>Can</creator>
+      <album>Ege Bamyasi (Remastered Version)</album>
+      <trackNum>6</trackNum>
+      <duration>184000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170420806</meta>
+    </track>
+    <track>
+      <title>Paperhouse (2011 Remastered)</title>
+      <creator>Can</creator>
+      <album>Tago Mago (40th Anniversary Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>448000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170420601</meta>
+    </track>
+    <track>
+      <title>Come sta, La Luna</title>
+      <creator>Can</creator>
+      <album>Soon Over Babaluma (Remastered Version)</album>
+      <trackNum>2</trackNum>
+      <duration>342000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170521002</meta>
+    </track>
+    <track>
+      <title>Pinch (2004 Remastered Version)</title>
+      <creator>Can</creator>
+      <album>Ege Bamyasi (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>568000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170420801</meta>
+    </track>
+    <track>
+      <title>Moonshake</title>
+      <creator>Can</creator>
+      <album>Future Days (Remastered Version)</album>
+      <trackNum>3</trackNum>
+      <duration>182000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170520903</meta>
+    </track>
+    <track>
+      <title>Splash</title>
+      <creator>Can</creator>
+      <album>Soon Over Babaluma (Remastered Version)</album>
+      <trackNum>3</trackNum>
+      <duration>465000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170521003</meta>
+    </track>
+    <track>
+      <title>Dizzy Dizzy</title>
+      <creator>Can</creator>
+      <album>Soon Over Babaluma (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>340000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170521001</meta>
+    </track>
+    <track>
+      <title>Doko E (Aug. 73)</title>
+      <creator>Can</creator>
+      <album>Anthology (Remastered Version)</album>
+      <trackNum>20</trackNum>
+      <duration>148000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522302</meta>
+    </track>
+    <track>
+      <title>Full Moon On The Highway</title>
+      <creator>Can</creator>
+      <album>Landed (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522501</meta>
+    </track>
+    <track>
+      <title>Animal Waves</title>
+      <creator>Can</creator>
+      <album>Saw Delight [Remastered]</album>
+      <trackNum>4</trackNum>
+      <duration>929000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522704</meta>
+    </track>
+    <track>
+      <title>Ibis (Sept. 74)</title>
+      <creator>Can</creator>
+      <album>Unlimited Edition (Remastered Version)</album>
+      <trackNum>19</trackNum>
+      <duration>559000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522319</meta>
+    </track>
+    <track>
+      <title>All Gates Open</title>
+      <creator>Can</creator>
+      <album>Can (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>497000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522801</meta>
+    </track>
+    <track>
+      <title>Vitamin C (2004 Remastered Version)</title>
+      <creator>Can</creator>
+      <album>Ege Bamyasi (Remastered Version)</album>
+      <trackNum>4</trackNum>
+      <duration>214000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170420804</meta>
+    </track>
+    <track>
+      <title>Full Moon On The Highway</title>
+      <creator>Can</creator>
+      <album>Landed (Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170522501</meta>
+    </track>
+    <track>
+      <title>November</title>
+      <creator>Can</creator>
+      <album>Out of Reach</album>
+      <trackNum>3</trackNum>
+      <duration>468000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX171325103</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Mahavishnu, McLaughlin</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7305514</meta>
+  <meta rel="https://rdio.com/xspf/name">Mahavishnu, McLaughlin</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7305514/Mahavishnu%2C_McLaughlin/</meta>
+  <trackList>
+    <track>
+      <title>Trilogy</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>The Lost Trident Sessions</album>
+      <trackNum>2</trackNum>
+      <duration>569000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300983</meta>
+    </track>
+    <track>
+      <title>John's Song #2</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>The Lost Trident Sessions</album>
+      <trackNum>6</trackNum>
+      <duration>353000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300987</meta>
+    </track>
+    <track>
+      <title>Vital Transformation (Remastered)</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>The Inner Mounting Flame</album>
+      <trackNum>5</trackNum>
+      <duration>375000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11105334</meta>
+    </track>
+    <track>
+      <title>One Word (Remastered)</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>Bonus Disc: Unreleased Tracks From Between Nothingness &amp; Eternity</album>
+      <trackNum>4</trackNum>
+      <duration>1110000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11105346</meta>
+    </track>
+    <track>
+      <title>Guardian Angel (Live)</title>
+      <creator>Al Di Meola, John McLaughlin, Paco De Lucía</creator>
+      <album>Friday Night In San Francisco</album>
+      <trackNum>5</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18000199</meta>
+    </track>
+  </trackList>
+</playlist>

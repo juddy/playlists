@@ -1,0 +1,236 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Get Down To It</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p481736</meta>
+  <meta rel="https://rdio.com/xspf/name">Get Down To It</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/481736/Get_Down_To_It/</meta>
+  <trackList>
+    <track>
+      <title>Pleasant Banjo Intro With Irritating Squeak</title>
+      <creator>Nurse With Wound</creator>
+      <album>A Sucked Orange</album>
+      <trackNum>1</trackNum>
+      <duration>43000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CALM40800543</meta>
+    </track>
+    <track>
+      <title>Kaa</title>
+      <creator>Mike Keneally</creator>
+      <album>Evidence of Humanity</album>
+      <trackNum>11</trackNum>
+      <duration>167000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B91041111</meta>
+    </track>
+    <track>
+      <title>Lamp That</title>
+      <creator>Equal Local</creator>
+      <album>Can't Stop It! Australian Post-Punk 1978-82</album>
+      <trackNum>14</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUCI10603714</meta>
+    </track>
+    <track>
+      <title>Anstromm-Feck 4</title>
+      <creator>Squarepusher</creator>
+      <album>Do You Know Squarepusher</album>
+      <trackNum>4</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0200019</meta>
+    </track>
+    <track>
+      <title>Crisis</title>
+      <creator>Jaco Pastorius</creator>
+      <album>Word Of Mouth</album>
+      <trackNum>1</trackNum>
+      <duration>320000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10000387</meta>
+    </track>
+    <track>
+      <title>Yin</title>
+      <creator>Larry Coryell</creator>
+      <album>The Masters of Experimental Guitar</album>
+      <trackNum>3</trackNum>
+      <duration>364000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVG28809359</meta>
+    </track>
+    <track>
+      <title>Artifact (Instrumental)</title>
+      <creator>DJ Shadow</creator>
+      <album>The Outsider</album>
+      <trackNum>9</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70601897</meta>
+    </track>
+    <track>
+      <title>The Ocean Is The Ultimate Solution</title>
+      <creator>Frank Zappa</creator>
+      <album>LÄTHER</album>
+      <trackNum>25</trackNum>
+      <duration>513000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200943</meta>
+    </track>
+    <track>
+      <title>Ventolin (Crosmengegus Mix)</title>
+      <creator>Aphex Twin</creator>
+      <album>Ventolin EP</album>
+      <trackNum>6</trackNum>
+      <duration>354000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH11301549</meta>
+    </track>
+    <track>
+      <title>Sludge</title>
+      <creator>Trevor Rabin</creator>
+      <album>Can't Look Away</album>
+      <trackNum>10</trackNum>
+      <duration>147000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10183026</meta>
+    </track>
+    <track>
+      <title>Inchworm</title>
+      <creator>Battles</creator>
+      <album>Gloss Drop</album>
+      <trackNum>4</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1100048</meta>
+    </track>
+    <track>
+      <title>Minor Bird</title>
+      <creator>Catler Bros.</creator>
+      <album>Crash Landing</album>
+      <trackNum>3</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM91379919</meta>
+    </track>
+    <track>
+      <title>Steppings Tones</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>The Lost Trident Sessions</album>
+      <trackNum>5</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300986</meta>
+    </track>
+    <track>
+      <title>Black Market</title>
+      <creator>Weather Report</creator>
+      <album>Black Market</album>
+      <trackNum>1</trackNum>
+      <duration>393000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912635</meta>
+    </track>
+    <track>
+      <title>Bengal (Album Version)</title>
+      <creator>Mika Urbaniak</creator>
+      <album>Fusion</album>
+      <trackNum>7</trackNum>
+      <duration>826000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300490</meta>
+    </track>
+    <track>
+      <title>Miles Behind</title>
+      <creator>Medeski Scofield Martin &amp; Wood</creator>
+      <album>Out Louder</album>
+      <trackNum>2</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCTT0600002</meta>
+    </track>
+    <track>
+      <title>Play Time</title>
+      <creator>National Health</creator>
+      <album>Playtime</album>
+      <trackNum>7</trackNum>
+      <duration>579000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350114507,US37B0700882</meta>
+    </track>
+    <track>
+      <title>UMEA</title>
+      <creator>Zeena Parkins</creator>
+      <album>The Adorables</album>
+      <trackNum>3</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA4K1314703</meta>
+    </track>
+    <track>
+      <title>Holiday As Brutality</title>
+      <creator>Clark</creator>
+      <album>Empty The Bones Of You</album>
+      <trackNum>2</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0300099</meta>
+    </track>
+    <track>
+      <title>Luxman Furs</title>
+      <creator>Clark</creator>
+      <album>Totems Flare</album>
+      <trackNum>5</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0900109</meta>
+    </track>
+    <track>
+      <title>Smokin' (Empty, Try Another)</title>
+      <creator>Joni Mitchell</creator>
+      <album>Dog Eat Dog</album>
+      <trackNum>5</trackNum>
+      <duration>103000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGF18507405</meta>
+    </track>
+    <track>
+      <title>Track 2 (EP Version)</title>
+      <creator>Aphex Twin</creator>
+      <album>Windowlicker</album>
+      <trackNum>2</trackNum>
+      <duration>345000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSI10180080</meta>
+    </track>
+    <track>
+      <title>Don't Go Plastic</title>
+      <creator>Squarepusher</creator>
+      <album>Music Is Rotted One Note</album>
+      <trackNum>2</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW9800064</meta>
+    </track>
+    <track>
+      <title>Super Are You</title>
+      <creator>The Boredoms</creator>
+      <album>Super Ae</album>
+      <trackNum>5</trackNum>
+      <duration>527000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2M9805019</meta>
+    </track>
+    <track>
+      <title>Futura</title>
+      <creator>Battles</creator>
+      <album>Gloss Drop</album>
+      <trackNum>3</trackNum>
+      <duration>377000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1100047</meta>
+    </track>
+    <track>
+      <title>Roads Girdle The Globe (2001 - Remaster)</title>
+      <creator>XTC</creator>
+      <album>Drums And Wires</album>
+      <trackNum>6</trackNum>
+      <duration>291000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0001013</meta>
+    </track>
+    <track>
+      <title>The Wild Bull - Part A</title>
+      <creator>Morton Subotnick</creator>
+      <album>Morton Subotnick: Silver Apples of the Moon / The Wild Bull</album>
+      <trackNum>3</trackNum>
+      <duration>788000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEC446800380</meta>
+    </track>
+    <track>
+      <title>Ted</title>
+      <creator>Clark</creator>
+      <album>Body Riddle</album>
+      <trackNum>5</trackNum>
+      <duration>174000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0600090</meta>
+    </track>
+  </trackList>
+</playlist>

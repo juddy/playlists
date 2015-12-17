@@ -1,0 +1,428 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Uncle Frank &amp; Friends</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p9291439</meta>
+  <meta rel="https://rdio.com/xspf/name">Uncle Frank &amp; Friends</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/9291439/Uncle_Frank__Friends/</meta>
+  <trackList>
+    <track>
+      <title>Livin' in the Jungle</title>
+      <creator>Flo &amp; Eddie</creator>
+      <album>Illegal, Immoral and Fattening</album>
+      <trackNum>5</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQE10910009</meta>
+    </track>
+    <track>
+      <title>Machupicchu</title>
+      <creator>Mike Keneally</creator>
+      <album>Wooden Smoke</album>
+      <trackNum>12</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B90440512</meta>
+    </track>
+    <track>
+      <title>I Come From Nowhere</title>
+      <creator>Frank Zappa</creator>
+      <album>Ship Arriving Too Late To Save A Drowning Witch</album>
+      <trackNum>3</trackNum>
+      <duration>370000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200336</meta>
+    </track>
+    <track>
+      <title>While You Were Out</title>
+      <creator>Frank Zappa</creator>
+      <album>Shut Up And Play Yer Guitar (3 Record Set)</album>
+      <trackNum>4</trackNum>
+      <duration>363000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200297</meta>
+    </track>
+    <track>
+      <title>Reach For It (Album Version)</title>
+      <creator>George Duke</creator>
+      <album>George Duke Greatest Hits</album>
+      <trackNum>2</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17700006</meta>
+    </track>
+    <track>
+      <title>The Riddle (Album Version)</title>
+      <creator>Steve Vai</creator>
+      <album>Passion And Warfare</album>
+      <trackNum>5</trackNum>
+      <duration>382000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19000146</meta>
+    </track>
+    <track>
+      <title>The Spell</title>
+      <creator>Chad Wackerman</creator>
+      <album>Drum Nation Volume One</album>
+      <trackNum>5</trackNum>
+      <duration>301000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US78S0506505</meta>
+    </track>
+    <track>
+      <title>Dukey Stick (Album Version)</title>
+      <creator>George Duke</creator>
+      <album>George Duke Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>362000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17800020</meta>
+    </track>
+    <track>
+      <title>Inca Roads</title>
+      <creator>Frank Zappa</creator>
+      <album>The Best Band You Never Heard In Your Life</album>
+      <trackNum>13</trackNum>
+      <duration>499000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200592</meta>
+    </track>
+    <track>
+      <title>Steady Freddy</title>
+      <creator>Napoleon Murphy Brock</creator>
+      <album>Balls</album>
+      <trackNum>1</trackNum>
+      <duration>286000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGJ0568916</meta>
+    </track>
+    <track>
+      <title>Scream</title>
+      <creator>Chad Wackerman</creator>
+      <album>Scream</album>
+      <trackNum>1</trackNum>
+      <duration>365000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM90898330</meta>
+    </track>
+    <track>
+      <title>Return Of The Son Of Shut Up 'N Play Yer Guitar</title>
+      <creator>Frank Zappa</creator>
+      <album>Shut Up And Play Yer Guitar (3 Record Set)</album>
+      <trackNum>16</trackNum>
+      <duration>511000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200309</meta>
+    </track>
+    <track>
+      <title>Holiday Insane</title>
+      <creator>Chad Wackerman</creator>
+      <album>Forty Reasons</album>
+      <trackNum>1</trackNum>
+      <duration>441000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJC9902564</meta>
+    </track>
+    <track>
+      <title>Biznis as Usual</title>
+      <creator>Ike Willis</creator>
+      <album>Should'a Gone Before I Left</album>
+      <trackNum>1</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21191743</meta>
+    </track>
+    <track>
+      <title>Hello</title>
+      <creator>Mike Keneally</creator>
+      <album>Wooden Smoke</album>
+      <trackNum>1</trackNum>
+      <duration>178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B90440501</meta>
+    </track>
+    <track>
+      <title>Blond Hair, Blond Teeth</title>
+      <creator>Ike Willis</creator>
+      <album>Dirty Pictures</album>
+      <trackNum>4</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21107317</meta>
+    </track>
+    <track>
+      <title>Dirty Pictures</title>
+      <creator>Ike Willis</creator>
+      <album>Dirty Pictures</album>
+      <trackNum>15</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21107328</meta>
+    </track>
+    <track>
+      <title>Thoughts Have Turned</title>
+      <creator>Flo &amp; Eddie</creator>
+      <album>The Phlorescent Leech &amp; Eddie / Flo &amp; Eddie</album>
+      <trackNum>2</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560740728</meta>
+    </track>
+    <track>
+      <title>The Pop Star Massage Unit</title>
+      <creator>Flo &amp; Eddie</creator>
+      <album>Illegal, Immoral and Fattening</album>
+      <trackNum>9</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQE10910013</meta>
+    </track>
+    <track>
+      <title>It Never Happened</title>
+      <creator>Flo &amp; Eddie</creator>
+      <album>The Phlorescent Leech &amp; Eddie / Flo &amp; Eddie</album>
+      <trackNum>3</trackNum>
+      <duration>126000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560740729</meta>
+    </track>
+    <track>
+      <title>Tracy Is A Snob</title>
+      <creator>Frank Zappa</creator>
+      <album>You Can't Do That On Stage Anymore, Vol. 6</album>
+      <trackNum>16</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200720</meta>
+    </track>
+    <track>
+      <title>Enigmatic Ocean, Part lll</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>The Very Best Of Jean-Luc Ponty</album>
+      <trackNum>5</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180854</meta>
+    </track>
+    <track>
+      <title>Up From The Sea It Arose And Ate Rio In One Swift Bite (Album Version)</title>
+      <creator>George Duke</creator>
+      <album>The Essential George Duke</album>
+      <trackNum>11</trackNum>
+      <duration>324000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10022282</meta>
+    </track>
+    <track>
+      <title>Falling in Circles</title>
+      <creator>Terry Bozzio</creator>
+      <album>Black Light Syndrome</album>
+      <trackNum>5</trackNum>
+      <duration>549000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US78S0501905</meta>
+    </track>
+    <track>
+      <title>Skin Tight</title>
+      <creator>Napoleon Murphy Brock featuring Gregarious Movement</creator>
+      <album>After Frank - 1st Movement</album>
+      <trackNum>1</trackNum>
+      <duration>744000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">usx9p0788855</meta>
+    </track>
+    <track>
+      <title>Wild Love</title>
+      <creator>Frank Zappa</creator>
+      <album>Sheik Yerbouti</album>
+      <trackNum>17</trackNum>
+      <duration>249000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200253</meta>
+    </track>
+    <track>
+      <title>Cornbread Crumb</title>
+      <creator>Mike Keneally</creator>
+      <album>You Must Be This Tall</album>
+      <trackNum>4</trackNum>
+      <duration>392000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B91241404</meta>
+    </track>
+    <track>
+      <title>Debra Kadabra</title>
+      <creator>Frank Zappa</creator>
+      <album>Bongo Fury</album>
+      <trackNum>1</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200193</meta>
+    </track>
+    <track>
+      <title>The Art Of Happiness (Album Version-Cosmic Messenger) (-Cosmic Messenger)</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Cosmic Messenger</album>
+      <trackNum>2</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180817</meta>
+    </track>
+    <track>
+      <title>Son Of Reach For It</title>
+      <creator>George Duke</creator>
+      <album>The Essential George Duke</album>
+      <trackNum>20</trackNum>
+      <duration>265000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18200708</meta>
+    </track>
+    <track>
+      <title>Love Theme - the Foreigner from Boston</title>
+      <creator>Ike Willis</creator>
+      <album>Dirty Pictures</album>
+      <trackNum>7</trackNum>
+      <duration>329000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21107320</meta>
+    </track>
+    <track>
+      <title>Click</title>
+      <creator>Mike Keneally Band</creator>
+      <album>Bakin' @ the Potato!</album>
+      <trackNum>4</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B91141204</meta>
+    </track>
+    <track>
+      <title>Mondo B</title>
+      <creator>Arthur Barrow</creator>
+      <album>AB3</album>
+      <trackNum>7</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM80328091</meta>
+    </track>
+    <track>
+      <title>Destination Unknown (TV Mania 12" Mix - Remixed by Nick Rhodes of Duran Duran &amp; Warren Cuccurullo)</title>
+      <creator>Missing Persons</creator>
+      <album>Walking In L.A. - The Dance Mixes</album>
+      <trackNum>8</trackNum>
+      <duration>275000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDPS0600365</meta>
+    </track>
+    <track>
+      <title>Chunga's Revenge</title>
+      <creator>Aynsley Dunbar</creator>
+      <album>Mutiny</album>
+      <trackNum>4</trackNum>
+      <duration>322000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEA450833750</meta>
+    </track>
+    <track>
+      <title>Little Umbrellas</title>
+      <creator>Frank Zappa</creator>
+      <album>Hot Rats</album>
+      <trackNum>4</trackNum>
+      <duration>189000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE0800054</meta>
+    </track>
+    <track>
+      <title>Juicy Toots</title>
+      <creator>Ian Underwood</creator>
+      <album>Help I Lost My Body</album>
+      <trackNum>1</trackNum>
+      <duration>343000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGH1218158</meta>
+    </track>
+    <track>
+      <title>Popes</title>
+      <creator>Mike Keneally</creator>
+      <album>You Must Be This Tall</album>
+      <trackNum>9</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B91241409</meta>
+    </track>
+    <track>
+      <title>Hamburger midnight</title>
+      <creator>Jimmy Carl Black</creator>
+      <album>Is singin' the blues</album>
+      <trackNum>10</trackNum>
+      <duration>280000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ITL600800291</meta>
+    </track>
+    <track>
+      <title>Florentine Pogen</title>
+      <creator>Frank Zappa</creator>
+      <album>The Best Band You Never Heard In Your Life</album>
+      <trackNum>11</trackNum>
+      <duration>432000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200590</meta>
+    </track>
+    <track>
+      <title>Kung Fu Killer</title>
+      <creator>Flo &amp; Eddie</creator>
+      <album>Illegal, Immoral and Fattening</album>
+      <trackNum>7</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQE10910011</meta>
+    </track>
+    <track>
+      <title>One of Us</title>
+      <creator>Ed Mann</creator>
+      <album>Perfect World</album>
+      <trackNum>5</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJC9902745</meta>
+    </track>
+    <track>
+      <title>Forty-Four Blues / How Many More Years</title>
+      <creator>Little Feat</creator>
+      <album>Little Feat</album>
+      <trackNum>7</trackNum>
+      <duration>392000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10105374</meta>
+    </track>
+    <track>
+      <title>200 Motels Finale</title>
+      <creator>Frank Zappa</creator>
+      <album>You Can't Do That On Stage Anymore, Vol. 6</album>
+      <trackNum>36</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200740</meta>
+    </track>
+    <track>
+      <title>Mirage</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Enigmatic Ocean</album>
+      <trackNum>3</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180851</meta>
+    </track>
+    <track>
+      <title>King Kong</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>King Kong</album>
+      <trackNum>1</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN29300316</meta>
+    </track>
+    <track>
+      <title>Theme From The 3rd Movement Of Sinister Footwear</title>
+      <creator>Frank Zappa</creator>
+      <album>You Are What You Is</album>
+      <trackNum>5</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200318</meta>
+    </track>
+    <track>
+      <title>Twenty Small Cigars</title>
+      <creator>Frank Zappa</creator>
+      <album>Chunga's Revenge</album>
+      <trackNum>3</trackNum>
+      <duration>137000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200124</meta>
+    </track>
+    <track>
+      <title>The Idiot Bastard Son</title>
+      <creator>Jerry Outlaw</creator>
+      <album>20 Extraordinary Renditions - The Idiot Bastard Son</album>
+      <trackNum>2</trackNum>
+      <duration>164000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGH0815214</meta>
+    </track>
+    <track>
+      <title>Filthy Habits</title>
+      <creator>Frank Zappa</creator>
+      <album>LÄTHER</album>
+      <trackNum>23</trackNum>
+      <duration>432000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200941</meta>
+    </track>
+    <track>
+      <title>The Past Sure Is Tense (2006 Digital Remaster)</title>
+      <creator>Captain Beefheart</creator>
+      <album>Ice Cream For Crow</album>
+      <trackNum>7</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0600271</meta>
+    </track>
+    <track>
+      <title>When I See Mommy I Feel Like A Mummy</title>
+      <creator>Captain Beefheart</creator>
+      <album>Shiny Beast [Bat Chain Puller]</album>
+      <trackNum>7</trackNum>
+      <duration>303000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11001043</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Mar. '15</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p13086302</meta>
+  <meta rel="https://rdio.com/xspf/name">Mar. '15</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/13086302/Mar._%2715/</meta>
+  <trackList>
+    <track>
+      <title>Virtual Insight</title>
+      <creator>Gramatik</creator>
+      <album>Coffee Shop Selection</album>
+      <trackNum>2</trackNum>
+      <duration>275000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51535076</meta>
+    </track>
+    <track>
+      <title>Com Touch</title>
+      <creator>Clark</creator>
+      <album>Iradelphic</album>
+      <trackNum>2</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1200002</meta>
+    </track>
+    <track>
+      <title>Rayc Fire 2</title>
+      <creator>Squarepusher</creator>
+      <album>Rayc Fire 2</album>
+      <trackNum>1</trackNum>
+      <duration>284000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500016</meta>
+    </track>
+    <track>
+      <title>Inanimate Sensation</title>
+      <creator>Death Grips</creator>
+      <album>Inanimate Sensation</album>
+      <trackNum>1</trackNum>
+      <duration>364000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUG11401867</meta>
+    </track>
+  </trackList>
+</playlist>

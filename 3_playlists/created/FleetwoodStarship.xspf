@@ -1,0 +1,84 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>FleetwoodStarship</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7321153</meta>
+  <meta rel="https://rdio.com/xspf/name">FleetwoodStarship</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7321153/FleetwoodStarship/</meta>
+  <trackList>
+    <track>
+      <title>Rhiannon</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Fleetwood Mac</album>
+      <trackNum>4</trackNum>
+      <duration>253000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900188</meta>
+    </track>
+    <track>
+      <title>Say You Love Me</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Fleetwood Mac</album>
+      <trackNum>7</trackNum>
+      <duration>251000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900205</meta>
+    </track>
+    <track>
+      <title>World Turning</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Fleetwood Mac</album>
+      <trackNum>9</trackNum>
+      <duration>266000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19903198</meta>
+    </track>
+    <track>
+      <title>Tusk</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Greatest Hits</album>
+      <trackNum>11</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900206</meta>
+    </track>
+    <track>
+      <title>Over My Head</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Greatest Hits</album>
+      <trackNum>15</trackNum>
+      <duration>218000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900210</meta>
+    </track>
+    <track>
+      <title>Go Your Own Way (Remastered Single)</title>
+      <creator>Fleetwood Mac</creator>
+      <album>The Very Best Of Fleetwood Mac</album>
+      <trackNum>4</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10202605</meta>
+    </track>
+    <track>
+      <title>The Chain (Remastered Version)</title>
+      <creator>Fleetwood Mac</creator>
+      <album>The Very Best Of Fleetwood Mac</album>
+      <trackNum>18</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10202618</meta>
+    </track>
+    <track>
+      <title>Second Hand News (Remastered Version)</title>
+      <creator>Fleetwood Mac</creator>
+      <album>The Very Best Of Fleetwood Mac</album>
+      <trackNum>22</trackNum>
+      <duration>172000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10202616</meta>
+    </track>
+    <track>
+      <title>Gold Dust Woman (Remastered Version)</title>
+      <creator>Fleetwood Mac</creator>
+      <album>The Very Best Of Fleetwood Mac</album>
+      <trackNum>26</trackNum>
+      <duration>291000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10202624</meta>
+    </track>
+  </trackList>
+</playlist>

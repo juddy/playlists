@@ -1,0 +1,164 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>The Usual Suspex</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7277117</meta>
+  <meta rel="https://rdio.com/xspf/name">The Usual Suspex</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7277117/The_Usual_Suspex/</meta>
+  <trackList>
+    <track>
+      <title>Knotty Pine (Remastered Version)</title>
+      <creator>Gordon Lightfoot</creator>
+      <album>Salute</album>
+      <trackNum>6</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10201971</meta>
+    </track>
+    <track>
+      <title>Both Sides Now (Remastered Version)</title>
+      <creator>Joni Mitchell</creator>
+      <album>Dreamland</album>
+      <trackNum>13</trackNum>
+      <duration>347000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE10400893</meta>
+    </track>
+    <track>
+      <title>Larry's Latin Leap</title>
+      <creator>Chris Proctor</creator>
+      <album>Steel String Stories</album>
+      <trackNum>7</trackNum>
+      <duration>172000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFF29055407</meta>
+    </track>
+    <track>
+      <title>Moonglow Rising</title>
+      <creator>Chuck Pyle</creator>
+      <album>Romancing The Moment</album>
+      <trackNum>1</trackNum>
+      <duration>338000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3K80508001</meta>
+    </track>
+    <track>
+      <title>One Part Be My Lover</title>
+      <creator>Bonnie Raitt</creator>
+      <album>Luck Of The Draw</album>
+      <trackNum>7</trackNum>
+      <duration>306000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29100109</meta>
+    </track>
+    <track>
+      <title>The Hymn of Ordinary Motion</title>
+      <creator>Jerry Douglas</creator>
+      <album>The Masters of Experimental Guitar</album>
+      <trackNum>2</trackNum>
+      <duration>120000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSH59341735</meta>
+    </track>
+    <track>
+      <title>A Mountaineer is Always Free</title>
+      <creator>Pierce Pettis</creator>
+      <album>State of Grace</album>
+      <trackNum>5</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCO90131505</meta>
+    </track>
+    <track>
+      <title>Processional</title>
+      <creator>William Ackerman</creator>
+      <album>Returning</album>
+      <trackNum>9</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USM440400009</meta>
+    </track>
+    <track>
+      <title>Motels and Planes</title>
+      <creator>Bill Morrissey</creator>
+      <album>Standing Eight</album>
+      <trackNum>5</trackNum>
+      <duration>191000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPH18912305</meta>
+    </track>
+    <track>
+      <title>Everything Green</title>
+      <creator>Christine Kane</creator>
+      <album>A Friday Night in One Lifetime</album>
+      <trackNum>3</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM90912169</meta>
+    </track>
+    <track>
+      <title>Granny White Special</title>
+      <creator>Chris Thile, Bryan Sutton, Byron House, Mark O'Connor</creator>
+      <album>Thirty-Year Retrospective</album>
+      <trackNum>28</trackNum>
+      <duration>270000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAZL0710937</meta>
+    </track>
+    <track>
+      <title>Flowers In The Snow</title>
+      <creator>Jerry Jeff Walker</creator>
+      <album>Navajo Rug</album>
+      <trackNum>8</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPBR0502559</meta>
+    </track>
+    <track>
+      <title>Little St. Anne</title>
+      <creator>Neal Hellman</creator>
+      <album>Oktober County</album>
+      <trackNum>6</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA5Q0310106</meta>
+    </track>
+    <track>
+      <title>Trip On Love</title>
+      <creator>Tom Kimmel</creator>
+      <album>Light of Day</album>
+      <trackNum>11</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USY280708026</meta>
+    </track>
+    <track>
+      <title>Object Of My Affection (Album Version)</title>
+      <creator>Shawn Colvin</creator>
+      <album>Fat City</album>
+      <trackNum>9</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10000754</meta>
+    </track>
+    <track>
+      <title>Pieces of Eight</title>
+      <creator>Harvey Reid</creator>
+      <album>Of Wind and Water</album>
+      <trackNum>6</trackNum>
+      <duration>288000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKTD8800006</meta>
+    </track>
+    <track>
+      <title>Hearts Overflowing</title>
+      <creator>Jonathan Edwards</creator>
+      <album>Rollin' Along "Live in Holland"</album>
+      <trackNum>13</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLN390800074</meta>
+    </track>
+    <track>
+      <title>Ford Econoline</title>
+      <creator>Nanci Griffith</creator>
+      <album>The Complete MCA Studio Recordings</album>
+      <trackNum>8</trackNum>
+      <duration>133000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18621513</meta>
+    </track>
+    <track>
+      <title>My Aunt Francis</title>
+      <creator>Leo Kottke</creator>
+      <album>My Father's Face</album>
+      <trackNum>6</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPM18901102</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Police</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7735767</meta>
+  <meta rel="https://rdio.com/xspf/name">Police</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7735767/Police/</meta>
+  <trackList>
+    <track>
+      <title>Every Little Thing She Does Is Magic</title>
+      <creator>The Police</creator>
+      <album>The Police</album>
+      <trackNum>18</trackNum>
+      <duration>261000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201127</meta>
+    </track>
+    <track>
+      <title>Invisible Sun</title>
+      <creator>The Police</creator>
+      <album>The Police</album>
+      <trackNum>17</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201128</meta>
+    </track>
+    <track>
+      <title>Driven To Tears</title>
+      <creator>The Police</creator>
+      <album>The Police</album>
+      <trackNum>13</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201149</meta>
+    </track>
+    <track>
+      <title>Synchronicity I (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Synchronicity (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>203000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201104</meta>
+    </track>
+    <track>
+      <title>Wrapped Around Your Finger (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Synchronicity (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>314000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201112</meta>
+    </track>
+    <track>
+      <title>Spirits In The Material World (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Ghost In The Machine (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>179000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201126</meta>
+    </track>
+    <track>
+      <title>Walking On The Moon (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Reggatta De Blanc (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201175</meta>
+    </track>
+    <track>
+      <title>Does Everyone Stare (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Reggatta De Blanc (Remastered)</album>
+      <trackNum>10</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201179</meta>
+    </track>
+    <track>
+      <title>Synchronicity II (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Synchronicity (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201109</meta>
+    </track>
+    <track>
+      <title>Contact (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Reggatta De Blanc (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>157000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201178</meta>
+    </track>
+  </trackList>
+</playlist>

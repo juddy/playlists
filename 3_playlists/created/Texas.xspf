@@ -1,0 +1,180 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Texas</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7999062</meta>
+  <meta rel="https://rdio.com/xspf/name">Texas</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7999062/Texas/</meta>
+  <trackList>
+    <track>
+      <title>Lookin' out the Window</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Soul To Soul</album>
+      <trackNum>2</trackNum>
+      <duration>169000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500435</meta>
+    </track>
+    <track>
+      <title>She's Tuff</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>The Fabulous Thunderbirds</album>
+      <trackNum>6</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900006</meta>
+    </track>
+    <track>
+      <title>Couldn't Stand the Weather</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Couldn't Stand The Weather (Legacy Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>281000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18400398</meta>
+    </track>
+    <track>
+      <title>Cold Shot</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Couldn't Stand The Weather (Legacy Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18400400</meta>
+    </track>
+    <track>
+      <title>So Excited</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>The Sky Is Crying</album>
+      <trackNum>9</trackNum>
+      <duration>209000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19932787</meta>
+    </track>
+    <track>
+      <title>Wall of Denial</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>In Step</album>
+      <trackNum>7</trackNum>
+      <duration>336000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18900393</meta>
+    </track>
+    <track>
+      <title>Lenny</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Srv</album>
+      <trackNum>8</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLIC0600063</meta>
+    </track>
+    <track>
+      <title>Texas Flood</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Texas Flood (Legacy Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>320000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18300229</meta>
+    </track>
+    <track>
+      <title>Dirty Pool</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Texas Flood (Legacy Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18300424</meta>
+    </track>
+    <track>
+      <title>Change It</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Soul To Soul</album>
+      <trackNum>6</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500439</meta>
+    </track>
+    <track>
+      <title>Say What!</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Soul To Soul</album>
+      <trackNum>1</trackNum>
+      <duration>323000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500434</meta>
+    </track>
+    <track>
+      <title>Gone Home</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Soul To Soul</album>
+      <trackNum>5</trackNum>
+      <duration>187000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500438</meta>
+    </track>
+    <track>
+      <title>Come On, Pt. III</title>
+      <creator>Stevie Ray Vaughan And Double Trouble</creator>
+      <album>Soul To Soul</album>
+      <trackNum>9</trackNum>
+      <duration>270000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500442</meta>
+    </track>
+    <track>
+      <title>Marked Deck</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>The Fabulous Thunderbirds</album>
+      <trackNum>7</trackNum>
+      <duration>161000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900007</meta>
+    </track>
+    <track>
+      <title>One's Too Many</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>Tacos Deluxe</album>
+      <trackNum>6</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900061</meta>
+    </track>
+    <track>
+      <title>Los Fabulosos Thunderbirds</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>Tacos Deluxe</album>
+      <trackNum>13</trackNum>
+      <duration>70000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900068</meta>
+    </track>
+    <track>
+      <title>Extra Jimmies</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>What's The Word?</album>
+      <trackNum>4</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900018</meta>
+    </track>
+    <track>
+      <title>Last Call For Alcohol</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>What's The Word?</album>
+      <trackNum>6</trackNum>
+      <duration>175000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900020</meta>
+    </track>
+    <track>
+      <title>Texas Twister</title>
+      <creator>Little Feat</creator>
+      <album>Representing The Mambo</album>
+      <trackNum>1</trackNum>
+      <duration>287000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10003171</meta>
+    </track>
+    <track>
+      <title>Rad Gumbo</title>
+      <creator>Little Feat</creator>
+      <album>Representing The Mambo</album>
+      <trackNum>5</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10003175</meta>
+    </track>
+    <track>
+      <title>You Don't Know Me</title>
+      <creator>Butthole Surfers</creator>
+      <album>Independent Worm Saloon</album>
+      <trackNum>11</trackNum>
+      <duration>158000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29200107</meta>
+    </track>
+  </trackList>
+</playlist>

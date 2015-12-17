@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>The Who</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p8236932</meta>
+  <meta rel="https://rdio.com/xspf/name">The Who</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/8236932/The_Who/</meta>
+  <trackList>
+    <track>
+      <title>Who Are You</title>
+      <creator>The Who</creator>
+      <album>Who Are You</album>
+      <trackNum>9</trackNum>
+      <duration>382000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7801011</meta>
+    </track>
+    <track>
+      <title>Baba O'Riley (Remix)</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>309000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW0201096</meta>
+    </track>
+    <track>
+      <title>Behind Blue Eyes</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Remastered)</album>
+      <trackNum>8</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7100099</meta>
+    </track>
+    <track>
+      <title>Bargain</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Remastered)</album>
+      <trackNum>2</trackNum>
+      <duration>334000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7100114</meta>
+    </track>
+    <track>
+      <title>Slip Kid</title>
+      <creator>The Who</creator>
+      <album>The Who By Numbers (Remixed And Digitally Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>270000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7500114</meta>
+    </track>
+    <track>
+      <title>Let My Love Open The Door</title>
+      <creator>Pete Townshend</creator>
+      <album>The Definitive Collection</album>
+      <trackNum>8</trackNum>
+      <duration>163000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20100707</meta>
+    </track>
+  </trackList>
+</playlist>

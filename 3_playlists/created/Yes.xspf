@@ -1,0 +1,132 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Yes?</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7175997</meta>
+  <meta rel="https://rdio.com/xspf/name">Yes?</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7175997/Yes/</meta>
+  <trackList>
+    <track>
+      <title>Awaken</title>
+      <creator>Yes</creator>
+      <album>Going For The One</album>
+      <trackNum>5</trackNum>
+      <duration>938000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10801585</meta>
+    </track>
+    <track>
+      <title>Changes</title>
+      <creator>Yes</creator>
+      <album>90125 (Deluxe Version)</album>
+      <trackNum>4</trackNum>
+      <duration>380000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702542</meta>
+    </track>
+    <track>
+      <title>High (Previously Unissued)</title>
+      <creator>Yes</creator>
+      <album>Tormato (Deluxe Version)</album>
+      <trackNum>14</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10302018</meta>
+    </track>
+    <track>
+      <title>Leave It</title>
+      <creator>Yes</creator>
+      <album>90125 (Deluxe Version)</album>
+      <trackNum>6</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702544</meta>
+    </track>
+    <track>
+      <title>Love Will Find A Way</title>
+      <creator>Yes</creator>
+      <album>Big Generator</album>
+      <trackNum>5</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEW10000208</meta>
+    </track>
+    <track>
+      <title>Going For The One (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Going For The One (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>332000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702548,USEE10301008</meta>
+    </track>
+    <track>
+      <title>On The Silent Wings Of Freedom</title>
+      <creator>Yes</creator>
+      <album>Tormato (Deluxe Version)</album>
+      <trackNum>8</trackNum>
+      <duration>467000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702561</meta>
+    </track>
+    <track>
+      <title>Owner Of A Lonely Heart</title>
+      <creator>Yes</creator>
+      <album>90125 (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702539</meta>
+    </track>
+    <track>
+      <title>Hold On</title>
+      <creator>Yes</creator>
+      <album>90125 (Deluxe Version)</album>
+      <trackNum>2</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20702540</meta>
+    </track>
+    <track>
+      <title>Does It Really Happen (LP/Single Version)</title>
+      <creator>Yes</creator>
+      <album>Drama (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>395000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEW10000200</meta>
+    </track>
+    <track>
+      <title>Shoot High, Aim Low</title>
+      <creator>Yes</creator>
+      <album>Big Generator</album>
+      <trackNum>3</trackNum>
+      <duration>423000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEW10000207</meta>
+    </track>
+    <track>
+      <title>Something To Hold On To</title>
+      <creator>Trevor Rabin</creator>
+      <album>Can't Look Away</album>
+      <trackNum>2</trackNum>
+      <duration>307000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10183018</meta>
+    </track>
+    <track>
+      <title>I Can't Look Away</title>
+      <creator>Trevor Rabin</creator>
+      <album>Can't Look Away</album>
+      <trackNum>1</trackNum>
+      <duration>441000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10183017</meta>
+    </track>
+    <track>
+      <title>Rhythm Of Love</title>
+      <creator>Yes</creator>
+      <album>Big Generator</album>
+      <trackNum>1</trackNum>
+      <duration>293000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEW19900109</meta>
+    </track>
+    <track>
+      <title>Sole Survivor</title>
+      <creator>Asia</creator>
+      <album>Asia</album>
+      <trackNum>3</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGF18200803</meta>
+    </track>
+  </trackList>
+</playlist>

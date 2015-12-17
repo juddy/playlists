@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Jerry</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6478288</meta>
+  <meta rel="https://rdio.com/xspf/name">Jerry</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6478288/Jerry/</meta>
+  <trackList>
+    <track>
+      <title>Keepers (Previously Unreleased Take)</title>
+      <creator>Merl Saunders, Jerry Garcia</creator>
+      <album>Keystone Companions: The Complete 1973 Fantasy Recordings</album>
+      <trackNum>2</trackNum>
+      <duration>474000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201172</meta>
+    </track>
+    <track>
+      <title>Shady Grove</title>
+      <creator>Jerry Garcia, David Grisman</creator>
+      <album>Shady Grove</album>
+      <trackNum>1</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAD40400306</meta>
+    </track>
+    <track>
+      <title>Jerry's Breakdown</title>
+      <creator>Old &amp; In The Way</creator>
+      <album>Live At The Boarding House</album>
+      <trackNum>9</trackNum>
+      <duration>277000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAD40800022</meta>
+    </track>
+  </trackList>
+</playlist>

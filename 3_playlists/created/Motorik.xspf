@@ -1,0 +1,76 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Motorik</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p13953104</meta>
+  <meta rel="https://rdio.com/xspf/name">Motorik</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/13953104/Motorik/</meta>
+  <trackList>
+    <track>
+      <title>Life Begins At The Hop (2001 - Remaster)</title>
+      <creator>XTC</creator>
+      <album>Drums And Wires</album>
+      <trackNum>13</trackNum>
+      <duration>227000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0001020</meta>
+    </track>
+    <track>
+      <title>Hallogallo</title>
+      <creator>Neu!</creator>
+      <album>NEU!</album>
+      <trackNum>1</trackNum>
+      <duration>607000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEA340002063</meta>
+    </track>
+    <track>
+      <title>Fall out of Love</title>
+      <creator>TOY</creator>
+      <album>Join the Dots</album>
+      <trackNum>11</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UK32S2222298</meta>
+    </track>
+    <track>
+      <title>Away / Towards</title>
+      <creator>Hookworms</creator>
+      <album>Pearl Mystic</album>
+      <trackNum>1</trackNum>
+      <duration>529000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHRU1200017,GBCEL1300334,GBHRU1300001</meta>
+    </track>
+    <track>
+      <title>Jenny Ondioline</title>
+      <creator>Stereolab</creator>
+      <album>Transient Random-Noise Bursts With Announcements</album>
+      <trackNum>7</trackNum>
+      <duration>1087000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBJCJ9300012,USEE10000911</meta>
+    </track>
+    <track>
+      <title>Moonshake</title>
+      <creator>Can</creator>
+      <album>Future Days (Remastered Version)</album>
+      <trackNum>3</trackNum>
+      <duration>182000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEX170520903</meta>
+    </track>
+    <track>
+      <title>Roadrunner</title>
+      <creator>The Modern Lovers</creator>
+      <album>The Modern Lovers</album>
+      <trackNum>1</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJE7100695</meta>
+    </track>
+    <track>
+      <title>Get On Top</title>
+      <creator>Tim Buckley</creator>
+      <album>Greetings From L.A.</album>
+      <trackNum>2</trackNum>
+      <duration>393000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10202198</meta>
+    </track>
+  </trackList>
+</playlist>

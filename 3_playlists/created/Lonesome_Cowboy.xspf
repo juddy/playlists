@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Lonesome Cowboy</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6478373</meta>
+  <meta rel="https://rdio.com/xspf/name">Lonesome Cowboy</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6478373/Lonesome_Cowboy/</meta>
+  <trackList>
+    <track>
+      <title>Lonesome Cowboy</title>
+      <creator>Elvis Presley</creator>
+      <album>Jailhouse</album>
+      <trackNum>18</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBLLT0802137</meta>
+    </track>
+    <track>
+      <title>Lonesome L.A. Cowboy</title>
+      <creator>New Riders Of The Purple Sage</creator>
+      <album>The Adventures Of Panama Red</album>
+      <trackNum>3</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19931164</meta>
+    </track>
+    <track>
+      <title>Do Right Woman</title>
+      <creator>The Flying Burrito Brothers</creator>
+      <album>Hot Burritos! The Flying Burrito Brothers Anthology (1969 - 1972)</album>
+      <trackNum>3</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAM16800875</meta>
+    </track>
+    <track>
+      <title>Groovy Little Hippie Pad</title>
+      <creator>ZZ Top</creator>
+      <album>El Loco</album>
+      <trackNum>8</trackNum>
+      <duration>161000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10903931</meta>
+    </track>
+    <track>
+      <title>She's Tuff</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>The Fabulous Thunderbirds</album>
+      <trackNum>6</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900006</meta>
+    </track>
+    <track>
+      <title>El Paso [Live at the Spectrum, Philadelphia, PA, September 21, 1972]</title>
+      <creator>Grateful Dead</creator>
+      <album>Dick's Picks Vol. 36: 9/21/72 (The Spectrum, Philadelphia, PA)</album>
+      <trackNum>3</trackNum>
+      <duration>305000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10901221</meta>
+    </track>
+    <track>
+      <title>Extra Jimmies</title>
+      <creator>The Fabulous Thunderbirds</creator>
+      <album>What's The Word?</album>
+      <trackNum>4</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US48M0900018</meta>
+    </track>
+    <track>
+      <title>Sittin' On Top Of The World</title>
+      <creator>Jerry Reed</creator>
+      <album>Oh What A Woman</album>
+      <trackNum>7</trackNum>
+      <duration>167000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRN10800313</meta>
+    </track>
+    <track>
+      <title>If You Gotta Go</title>
+      <creator>The Flying Burrito Brothers</creator>
+      <album>The Gilded Palace Of Sin &amp; Burritos</album>
+      <trackNum>15</trackNum>
+      <duration>109000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAM16900891</meta>
+    </track>
+    <track>
+      <title>Lonesome Cowboy Bill</title>
+      <creator>The Velvet Underground</creator>
+      <album>Loaded</album>
+      <trackNum>7</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20103141</meta>
+    </track>
+    <track>
+      <title>Lonesome Cowboy Burt (Swaggart Version)</title>
+      <creator>Frank Zappa</creator>
+      <album>The Best Band You Never Heard In Your Life</album>
+      <trackNum>23</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200602</meta>
+    </track>
+    <track>
+      <title>Brushy Mountain Conjugal Trailer</title>
+      <creator>Old Crow Medicine Show</creator>
+      <album>Remedy</album>
+      <trackNum>1</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USATO1400064</meta>
+    </track>
+    <track>
+      <title>Lonesome Cowboy Bill</title>
+      <creator>The Velvet Underground</creator>
+      <album>Loaded</album>
+      <trackNum>7</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20103141</meta>
+    </track>
+    <track>
+      <title>Lonesome Cowboy Burt (Swaggart Version)</title>
+      <creator>Frank Zappa</creator>
+      <album>The Best Band You Never Heard In Your Life</album>
+      <trackNum>23</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZPE1200602</meta>
+    </track>
+  </trackList>
+</playlist>

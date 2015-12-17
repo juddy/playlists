@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Pete Townshend &amp; Friends</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p10131862</meta>
+  <meta rel="https://rdio.com/xspf/name">Pete Townshend &amp; Friends</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/10131862/Pete_Townshend__Friends/</meta>
+  <trackList>
+    <track>
+      <title>Initial Machine Experiments</title>
+      <creator>Pete Townshend</creator>
+      <album>Scoop</album>
+      <trackNum>19</trackNum>
+      <duration>114000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDFJ0000019,GBUM71500665</meta>
+    </track>
+    <track>
+      <title>Bargain</title>
+      <creator>Pete Townshend</creator>
+      <album>Scoop</album>
+      <trackNum>10</trackNum>
+      <duration>253000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDFJ0000010,GBUM71500621</meta>
+    </track>
+    <track>
+      <title>Guitar And Pen</title>
+      <creator>The Who</creator>
+      <album>Who Are You</album>
+      <trackNum>7</trackNum>
+      <duration>358000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7800122</meta>
+    </track>
+    <track>
+      <title>5:15</title>
+      <creator>The Who</creator>
+      <album>Quadrophenia</album>
+      <trackNum>11</trackNum>
+      <duration>299000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW9601038</meta>
+    </track>
+    <track>
+      <title>Baba O'Riley</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Deluxe Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7100001</meta>
+    </track>
+    <track>
+      <title>Going Mobile (Original Album Version)</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Deluxe Edition)</album>
+      <trackNum>7</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7100119</meta>
+    </track>
+    <track>
+      <title>Won't Get Fooled Again (Remix)</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>512000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC19549959</meta>
+    </track>
+    <track>
+      <title>Behind Blue Eyes (Original Album Version)</title>
+      <creator>The Who</creator>
+      <album>Who's Next (Deluxe Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW7100099</meta>
+    </track>
+    <track>
+      <title>The Real Me</title>
+      <creator>The Who</creator>
+      <album>Quadrophenia</album>
+      <trackNum>2</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAKW9601029</meta>
+    </track>
+    <track>
+      <title>Let My Love Open The Door</title>
+      <creator>Pete Townshend</creator>
+      <album>The Definitive Collection</album>
+      <trackNum>8</trackNum>
+      <duration>163000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20100707</meta>
+    </track>
+    <track>
+      <title>Who Are You (Lost Verse Mix)</title>
+      <creator>The Who</creator>
+      <album>Who Are You</album>
+      <trackNum>14</trackNum>
+      <duration>381000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17851013</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>GetBack</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p1932616</meta>
+  <meta rel="https://rdio.com/xspf/name">GetBack</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/1932616/GetBack/</meta>
+  <trackList>
+    <track>
+      <title>Coyote</title>
+      <creator>Joni Mitchell</creator>
+      <album>Hejira</album>
+      <trackNum>1</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170387</meta>
+    </track>
+    <track>
+      <title>You Make Loving Fun</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours</album>
+      <trackNum>8</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400054,USWB19900184</meta>
+    </track>
+    <track>
+      <title>Ripple</title>
+      <creator>Grateful Dead</creator>
+      <album>American Beauty [Expanded]</album>
+      <trackNum>6</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10105580</meta>
+    </track>
+    <track>
+      <title>Rosalee Mcfall</title>
+      <creator>Jerry Garcia, David Grisman, Tony Rice</creator>
+      <album>The Pizza Tapes</album>
+      <trackNum>11</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAD49900073</meta>
+    </track>
+    <track>
+      <title>Early Morning</title>
+      <creator>Edgar Meyer</creator>
+      <album>The Best of Edgar Meyer</album>
+      <trackNum>5</trackNum>
+      <duration>384000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10601190</meta>
+    </track>
+    <track>
+      <title>Walkin' After Midnight (1957 Single Version (4-Star Master))</title>
+      <creator>Patsy Cline</creator>
+      <album>Heartaches</album>
+      <trackNum>5</trackNum>
+      <duration>155000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC15649100</meta>
+    </track>
+    <track>
+      <title>Loving Cup</title>
+      <creator>The Rolling Stones</creator>
+      <album>Exile On Main Street (Deluxe Version)</album>
+      <trackNum>9</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJN7200009</meta>
+    </track>
+    <track>
+      <title>Wild Mountain Honey (2003 Digital Remaster)</title>
+      <creator>Steve Miller Band</creator>
+      <album>Fly Like An Eagle - 30th Anniversary</album>
+      <trackNum>3</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20300425</meta>
+    </track>
+    <track>
+      <title>The Girl From Ipanema</title>
+      <creator>João Gilberto, Stan Getz</creator>
+      <album>Getz/Gilberto</album>
+      <trackNum>1</trackNum>
+      <duration>325000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPR36305146</meta>
+    </track>
+    <track>
+      <title>Listen To What The Man Said</title>
+      <creator>Paul McCartney</creator>
+      <album>Wingspan</album>
+      <trackNum>1</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCCS0100668</meta>
+    </track>
+    <track>
+      <title>Hey, Little Mama</title>
+      <creator>Aztec Two-Step</creator>
+      <album>Live and Rare</album>
+      <trackNum>8</trackNum>
+      <duration>167000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4H20111992</meta>
+    </track>
+    <track>
+      <title>Could You Be Loved</title>
+      <creator>Bob Marley &amp; The Wailers</creator>
+      <album>Legend (The Definitive Remasters)</album>
+      <trackNum>3</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR28000016</meta>
+    </track>
+    <track>
+      <title>Idiot Wind</title>
+      <creator>Bob Dylan</creator>
+      <album>Blood On The Tracks</album>
+      <trackNum>4</trackNum>
+      <duration>465000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19906471</meta>
+    </track>
+  </trackList>
+</playlist>

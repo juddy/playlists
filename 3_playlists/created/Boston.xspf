@@ -1,0 +1,84 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Boston</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7420464</meta>
+  <meta rel="https://rdio.com/xspf/name">Boston</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7420464/Boston/</meta>
+  <trackList>
+    <track>
+      <title>Foreplay / Long Time</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>3</trackNum>
+      <duration>468000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600051,USSM10600744,USSM19804764</meta>
+    </track>
+    <track>
+      <title>More Than a Feeling</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>1</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600047,USSM17600941,USSM19804762</meta>
+    </track>
+    <track>
+      <title>Hitch a Ride</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>6</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600648,USSM19804767</meta>
+    </track>
+    <track>
+      <title>Peace of Mind</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>2</trackNum>
+      <duration>303000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19804763,USSM17600050,USSM17600644</meta>
+    </track>
+    <track>
+      <title>Don't Look Back</title>
+      <creator>Boston</creator>
+      <album>Greatest Hits</album>
+      <trackNum>5</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17800076</meta>
+    </track>
+    <track>
+      <title>We're Ready</title>
+      <creator>Boston</creator>
+      <album>Third Stage</album>
+      <trackNum>2</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18621438</meta>
+    </track>
+    <track>
+      <title>Cool The Engines</title>
+      <creator>Boston</creator>
+      <album>Third Stage</album>
+      <trackNum>4</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18621440</meta>
+    </track>
+    <track>
+      <title>The Launch A) Countdown B) Ignition C) Third Stage Separation</title>
+      <creator>Boston</creator>
+      <album>Third Stage</album>
+      <trackNum>3</trackNum>
+      <duration>177000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18621439</meta>
+    </track>
+    <track>
+      <title>Smokin'</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>5</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600647,USSM19804766,USSM17600049</meta>
+    </track>
+  </trackList>
+</playlist>

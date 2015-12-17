@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Jonathan Richman</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p6747677</meta>
+  <meta rel="https://rdio.com/xspf/name">Jonathan Richman</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/6747677/Jonathan_Richman/</meta>
+  <trackList>
+    <track>
+      <title>At Night</title>
+      <creator>Jonathan Richman</creator>
+      <album>Having a Party with Jonathan Richman</album>
+      <trackNum>7</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO29102607</meta>
+    </track>
+    <track>
+      <title>I Was Dancing In The Lesbian Bar</title>
+      <creator>Jonathan Richman</creator>
+      <album>I, Jonathan</album>
+      <trackNum>5</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO29203605</meta>
+    </track>
+    <track>
+      <title>You're Crazy For Taking The Bus</title>
+      <creator>Jonathan Richman</creator>
+      <album>Jonathan Goes Country</album>
+      <trackNum>6</trackNum>
+      <duration>152000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO29002406</meta>
+    </track>
+    <track>
+      <title>The Lonely Little Thrift Store</title>
+      <creator>Jonathan Richman</creator>
+      <album>I'm So Confused</album>
+      <trackNum>8</trackNum>
+      <duration>172000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVP19800033</meta>
+    </track>
+    <track>
+      <title>Every Day Clothes</title>
+      <creator>Jonathan Richman</creator>
+      <album>Jonathan Richman</album>
+      <trackNum>3</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28992103</meta>
+    </track>
+    <track>
+      <title>I Eat With Gusto, Damn! You Bet</title>
+      <creator>Jonathan Richman</creator>
+      <album>Jonathan Richman</album>
+      <trackNum>7</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28992107</meta>
+    </track>
+    <track>
+      <title>No One Was Like Vermeer</title>
+      <creator>Jonathan Richman</creator>
+      <album>Because Her Beauty Is Raw And Wild</album>
+      <trackNum>2</trackNum>
+      <duration>180000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVP10800013</meta>
+    </track>
+    <track>
+      <title>True Love Is Not Nice</title>
+      <creator>Jonathan Richman</creator>
+      <album>I'm So Confused</album>
+      <trackNum>4</trackNum>
+      <duration>191000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVP19800029</meta>
+    </track>
+    <track>
+      <title>Parties In The U.S.A.</title>
+      <creator>Jonathan Richman</creator>
+      <album>I, Jonathan</album>
+      <trackNum>1</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO29203601</meta>
+    </track>
+    <track>
+      <title>African Lady</title>
+      <creator>The Modern Lovers</creator>
+      <album>Modern Lovers '88</album>
+      <trackNum>5</trackNum>
+      <duration>155000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28701405</meta>
+    </track>
+  </trackList>
+</playlist>

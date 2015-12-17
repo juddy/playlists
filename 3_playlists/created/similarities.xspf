@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>similarities</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7250703</meta>
+  <meta rel="https://rdio.com/xspf/name">similarities</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7250703/similarities/</meta>
+  <trackList>
+    <track>
+      <title>Unorthodox Behaviour</title>
+      <creator>Brand X</creator>
+      <album>Unorthodox Behaviour</album>
+      <trackNum>5</trackNum>
+      <duration>509000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9901109</meta>
+    </track>
+    <track>
+      <title>Over Fire Island (2004 Digital Remaster)</title>
+      <creator>Brian Eno</creator>
+      <album>Another Green World</album>
+      <trackNum>2</trackNum>
+      <duration>109000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0400075</meta>
+    </track>
+    <track>
+      <title>Love Theme - the Foreigner from Boston</title>
+      <creator>Ike Willis</creator>
+      <album>Dirty Pictures</album>
+      <trackNum>7</trackNum>
+      <duration>329000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21107320</meta>
+    </track>
+    <track>
+      <title>Click</title>
+      <creator>Mike Keneally</creator>
+      <album>Nonkertompf</album>
+      <trackNum>2</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2B90440302</meta>
+    </track>
+    <track>
+      <title>Jenny Ondioline</title>
+      <creator>Stereolab</creator>
+      <album>Transient Random-Noise Bursts With Announcements</album>
+      <trackNum>7</trackNum>
+      <duration>1087000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBJCJ9300012,USEE10000911</meta>
+    </track>
+  </trackList>
+</playlist>

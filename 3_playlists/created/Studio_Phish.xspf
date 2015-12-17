@@ -1,0 +1,276 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Studio Phish</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7432627</meta>
+  <meta rel="https://rdio.com/xspf/name">Studio Phish</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7432627/Studio_Phish/</meta>
+  <trackList>
+    <track>
+      <title>Twist</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>2</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901011</meta>
+    </track>
+    <track>
+      <title>Back On The Train</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>4</trackNum>
+      <duration>182000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901013</meta>
+    </track>
+    <track>
+      <title>Gotta Jibboo</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>6</trackNum>
+      <duration>330000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901015</meta>
+    </track>
+    <track>
+      <title>First Tube</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>12</trackNum>
+      <duration>405000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901021</meta>
+    </track>
+    <track>
+      <title>Free</title>
+      <creator>Phish</creator>
+      <album>Billy Breathes</album>
+      <trackNum>1</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19694783</meta>
+    </track>
+    <track>
+      <title>Billy Breathes</title>
+      <creator>Phish</creator>
+      <album>Billy Breathes</album>
+      <trackNum>10</trackNum>
+      <duration>331000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19694792</meta>
+    </track>
+    <track>
+      <title>Prince Caspian</title>
+      <creator>Phish</creator>
+      <album>Billy Breathes</album>
+      <trackNum>13</trackNum>
+      <duration>319000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19694795</meta>
+    </track>
+    <track>
+      <title>Guelah Papyrus</title>
+      <creator>Phish</creator>
+      <album>A Picture Of Nectar</album>
+      <trackNum>7</trackNum>
+      <duration>322000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901129</meta>
+    </track>
+    <track>
+      <title>Cavern</title>
+      <creator>Phish</creator>
+      <album>A Picture Of Nectar</album>
+      <trackNum>3</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901125</meta>
+    </track>
+    <track>
+      <title>Tweezer</title>
+      <creator>Phish</creator>
+      <album>A Picture Of Nectar</album>
+      <trackNum>11</trackNum>
+      <duration>522000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901133</meta>
+    </track>
+    <track>
+      <title>Stealing from the Faulty Plan</title>
+      <creator>Phish</creator>
+      <album>Joy</album>
+      <trackNum>2</trackNum>
+      <duration>280000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKF40904903</meta>
+    </track>
+    <track>
+      <title>Guyute</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>4</trackNum>
+      <duration>506000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10900999</meta>
+    </track>
+    <track>
+      <title>Meat</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>3</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10900998</meta>
+    </track>
+    <track>
+      <title>Ghost</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>1</trackNum>
+      <duration>232000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10900996</meta>
+    </track>
+    <track>
+      <title>Limb By Limb</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>7</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901002</meta>
+    </track>
+    <track>
+      <title>The Moma Dance</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>13</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901008</meta>
+    </track>
+    <track>
+      <title>Down With Disease</title>
+      <creator>Phish</creator>
+      <album>(Hoist)</album>
+      <trackNum>2</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19400074</meta>
+    </track>
+    <track>
+      <title>Wolfman's Brother</title>
+      <creator>Phish</creator>
+      <album>(Hoist)</album>
+      <trackNum>8</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19400080</meta>
+    </track>
+    <track>
+      <title>Maze</title>
+      <creator>Phish</creator>
+      <album>Rift</album>
+      <trackNum>4</trackNum>
+      <duration>493000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170595</meta>
+    </track>
+    <track>
+      <title>Silent In The Morning</title>
+      <creator>Phish</creator>
+      <album>Rift</album>
+      <trackNum>15</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170605</meta>
+    </track>
+    <track>
+      <title>You Enjoy Myself</title>
+      <creator>Phish</creator>
+      <album>Junta</album>
+      <trackNum>2</trackNum>
+      <duration>590000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901139</meta>
+    </track>
+    <track>
+      <title>Fluffhead</title>
+      <creator>Phish</creator>
+      <album>Junta</album>
+      <trackNum>9</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170547</meta>
+    </track>
+    <track>
+      <title>Fluff's Travels</title>
+      <creator>Phish</creator>
+      <album>Junta</album>
+      <trackNum>10</trackNum>
+      <duration>699000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170548</meta>
+    </track>
+    <track>
+      <title>David Bowie</title>
+      <creator>Phish</creator>
+      <album>Junta</album>
+      <trackNum>8</trackNum>
+      <duration>659000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901145</meta>
+    </track>
+    <track>
+      <title>The Divided Sky</title>
+      <creator>Phish</creator>
+      <album>Junta</album>
+      <trackNum>7</trackNum>
+      <duration>717000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901144</meta>
+    </track>
+    <track>
+      <title>Tweezer (Reprise)</title>
+      <creator>Phish</creator>
+      <album>A Picture Of Nectar</album>
+      <trackNum>16</trackNum>
+      <duration>159000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE19901138</meta>
+    </track>
+    <track>
+      <title>Light</title>
+      <creator>Phish</creator>
+      <album>Joy</album>
+      <trackNum>7</trackNum>
+      <duration>303000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKF40904908</meta>
+    </track>
+    <track>
+      <title>Time Turns Elastic</title>
+      <creator>Phish</creator>
+      <album>Joy</album>
+      <trackNum>9</trackNum>
+      <duration>809000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKF40904899</meta>
+    </track>
+    <track>
+      <title>Heavy Things</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>5</trackNum>
+      <duration>255000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901014</meta>
+    </track>
+    <track>
+      <title>Sand</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>11</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901020</meta>
+    </track>
+    <track>
+      <title>Bug</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>3</trackNum>
+      <duration>306000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901012</meta>
+    </track>
+    <track>
+      <title>Fikus</title>
+      <creator>Phish</creator>
+      <album>The Story Of The Ghost</album>
+      <trackNum>5</trackNum>
+      <duration>140000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901000</meta>
+    </track>
+    <track>
+      <title>Sand</title>
+      <creator>Phish</creator>
+      <album>Farmhouse</album>
+      <trackNum>11</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10901020</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Jean-Luc Ponty &amp; Friends</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7551371</meta>
+  <meta rel="https://rdio.com/xspf/name">Jean-Luc Ponty &amp; Friends</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7551371/Jean-Luc_Ponty__Friends/</meta>
+  <trackList>
+    <track>
+      <title>Cosmic Messenger</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Cosmic Messenger</album>
+      <trackNum>1</trackNum>
+      <duration>282000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180803</meta>
+    </track>
+    <track>
+      <title>Puppet's Dance (Album Version-Cosmic Messenger) (-Cosmic Messenger)</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Cosmic Messenger</album>
+      <trackNum>5</trackNum>
+      <duration>219000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180832</meta>
+    </track>
+    <track>
+      <title>Egocentric Molecules (Album Version-Cosmic Messenger) (-Cosmic Messenger)</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Cosmic Messenger</album>
+      <trackNum>8</trackNum>
+      <duration>345000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180835</meta>
+    </track>
+    <track>
+      <title>King Kong</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>King Kong</album>
+      <trackNum>1</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN29300316</meta>
+    </track>
+    <track>
+      <title>Twenty Small Cigars</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>King Kong</album>
+      <trackNum>3</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN29300312</meta>
+    </track>
+    <track>
+      <title>Music For Electric Violin And Low Budget Orchestra</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>King Kong</album>
+      <trackNum>5</trackNum>
+      <duration>1160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN20700414</meta>
+    </track>
+    <track>
+      <title>Final Truth, Part 1</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Mystical Adventures</album>
+      <trackNum>8</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180846</meta>
+    </track>
+    <track>
+      <title>Final Truth, Part II</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Mystical Adventures</album>
+      <trackNum>9</trackNum>
+      <duration>129000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180847</meta>
+    </track>
+    <track>
+      <title>Cosmic Strut</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>Visions Of The Emerald Beyond</album>
+      <trackNum>7</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10024673</meta>
+    </track>
+    <track>
+      <title>On the Way Home to Earth</title>
+      <creator>The Mahavishnu Orchestra</creator>
+      <album>Visions Of The Emerald Beyond</album>
+      <trackNum>13</trackNum>
+      <duration>284000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10023521</meta>
+    </track>
+  </trackList>
+</playlist>

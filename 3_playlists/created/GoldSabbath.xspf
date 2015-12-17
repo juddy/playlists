@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>GoldSabbath</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p11607570</meta>
+  <meta rel="https://rdio.com/xspf/name">GoldSabbath</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/11607570/GoldSabbath/</meta>
+  <trackList>
+    <track>
+      <title>After Forever</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>15</trackNum>
+      <duration>326000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304543</meta>
+    </track>
+    <track>
+      <title>Wheels Of Confusion/The Straightener</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>22</trackNum>
+      <duration>467000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304617</meta>
+    </track>
+    <track>
+      <title>Supernaut</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>26</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304621</meta>
+    </track>
+    <track>
+      <title>St. Vitus' Dance</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>30</trackNum>
+      <duration>148000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304625</meta>
+    </track>
+    <track>
+      <title>A National Acrobat</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>33</trackNum>
+      <duration>375000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304636</meta>
+    </track>
+    <track>
+      <title>Sabbra Cadabra</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>35</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304638</meta>
+    </track>
+    <track>
+      <title>Looking For Today</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>38</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304641</meta>
+    </track>
+    <track>
+      <title>Hole In The Sky</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>40</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304559</meta>
+    </track>
+    <track>
+      <title>The Thrill Of It All</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>44</trackNum>
+      <duration>355000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304563</meta>
+    </track>
+    <track>
+      <title>The Writ</title>
+      <creator>Black Sabbath</creator>
+      <album>Complete Studio Albums 1970-1978</album>
+      <trackNum>47</trackNum>
+      <duration>524000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11304566</meta>
+    </track>
+  </trackList>
+</playlist>

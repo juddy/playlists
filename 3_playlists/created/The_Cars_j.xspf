@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>The Cars (j)</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p10298457</meta>
+  <meta rel="https://rdio.com/xspf/name">The Cars (j)</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/10298457/The_Cars_(j)/</meta>
+  <trackList>
+    <track>
+      <title>You're All I've Got Tonight</title>
+      <creator>The Cars</creator>
+      <album>The Cars</album>
+      <trackNum>6</trackNum>
+      <duration>255000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170473</meta>
+    </track>
+    <track>
+      <title>Dangerous Type</title>
+      <creator>The Cars</creator>
+      <album>Candy-O</album>
+      <trackNum>11</trackNum>
+      <duration>272000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170460</meta>
+    </track>
+    <track>
+      <title>Since You're Gone</title>
+      <creator>The Cars</creator>
+      <album>Shake It Up</album>
+      <trackNum>1</trackNum>
+      <duration>213000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEA28300007</meta>
+    </track>
+    <track>
+      <title>Just What I Needed</title>
+      <creator>The Cars</creator>
+      <album>The Cars</album>
+      <trackNum>3</trackNum>
+      <duration>226000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE17500009</meta>
+    </track>
+    <track>
+      <title>Shake It Up</title>
+      <creator>The Cars</creator>
+      <album>Shake It Up</album>
+      <trackNum>2</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE18100033</meta>
+    </track>
+    <track>
+      <title>Let's Go</title>
+      <creator>The Cars</creator>
+      <album>Complete Greatest Hits</album>
+      <trackNum>7</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEA28400001</meta>
+    </track>
+  </trackList>
+</playlist>

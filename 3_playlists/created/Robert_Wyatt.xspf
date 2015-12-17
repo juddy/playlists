@@ -1,0 +1,244 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Robert Wyatt</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p8500054</meta>
+  <meta rel="https://rdio.com/xspf/name">Robert Wyatt</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/8500054/Robert_Wyatt/</meta>
+  <trackList>
+    <track>
+      <title>Heaps Of Sheeps</title>
+      <creator>Robert Wyatt</creator>
+      <album>Shleep</album>
+      <trackNum>1</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800656</meta>
+    </track>
+    <track>
+      <title>Alifib</title>
+      <creator>Robert Wyatt</creator>
+      <album>Rock Bottom</album>
+      <trackNum>4</trackNum>
+      <duration>415000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800612</meta>
+    </track>
+    <track>
+      <title>Alife</title>
+      <creator>Robert Wyatt</creator>
+      <album>Rock Bottom</album>
+      <trackNum>5</trackNum>
+      <duration>391000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800613</meta>
+    </track>
+    <track>
+      <title>Little Red Robin Hood Hit The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Rock Bottom</album>
+      <trackNum>6</trackNum>
+      <duration>366000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800614</meta>
+    </track>
+    <track>
+      <title>Sea Song</title>
+      <creator>Robert Wyatt</creator>
+      <album>Theatre Royal Drury Lane</album>
+      <trackNum>4</trackNum>
+      <duration>553000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800706</meta>
+    </track>
+    <track>
+      <title>Little Red Riding Hood Hit The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Theatre Royal Drury Lane</album>
+      <trackNum>6</trackNum>
+      <duration>402000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800708</meta>
+    </track>
+    <track>
+      <title>Facelift (Live - Remastered 2006)</title>
+      <creator>Soft Machine</creator>
+      <album>Third</album>
+      <trackNum>1</trackNum>
+      <duration>1125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBBN9999927,GBARL0600676</meta>
+    </track>
+    <track>
+      <title>Moon In June (Remastered 2006)</title>
+      <creator>Soft Machine</creator>
+      <album>Third</album>
+      <trackNum>3</trackNum>
+      <duration>1147000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBBN9999926,GBARL0600678</meta>
+    </track>
+    <track>
+      <title>Out-Bloody-Rageous (Remastered 2006)</title>
+      <creator>Soft Machine</creator>
+      <album>Third</album>
+      <trackNum>4</trackNum>
+      <duration>1153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL0600679,GBBBN9999925</meta>
+    </track>
+    <track>
+      <title>Intro</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>1</trackNum>
+      <duration>44000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115001</meta>
+    </track>
+    <track>
+      <title>March Ides I</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>2</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115002</meta>
+    </track>
+    <track>
+      <title>Smoke Rings</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>3</trackNum>
+      <duration>471000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115003</meta>
+    </track>
+    <track>
+      <title>Nan True's Hole</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>4</trackNum>
+      <duration>360000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115004</meta>
+    </track>
+    <track>
+      <title>Brandy as in Benji</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>5</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115005</meta>
+    </track>
+    <track>
+      <title>Electric Piano Solo</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>6</trackNum>
+      <duration>71000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115006</meta>
+    </track>
+    <track>
+      <title>March Ides II</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>7</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115007</meta>
+    </track>
+    <track>
+      <title>Smoke Signal</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>9</trackNum>
+      <duration>419000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115009</meta>
+    </track>
+    <track>
+      <title>Lything &amp; Gracing</title>
+      <creator>Matching Mole</creator>
+      <album>Smoke Signals</album>
+      <trackNum>10</trackNum>
+      <duration>713000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9350115010</meta>
+    </track>
+    <track>
+      <title>March</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>1</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038236</meta>
+    </track>
+    <track>
+      <title>Instant Pussy</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>2</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038237</meta>
+    </track>
+    <track>
+      <title>Smoke Signals</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>3</trackNum>
+      <duration>380000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038238</meta>
+    </track>
+    <track>
+      <title>Part of the Dance</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>4</trackNum>
+      <duration>594000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038239</meta>
+    </track>
+    <track>
+      <title>No 'Alf' Measures</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>5</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038240</meta>
+    </track>
+    <track>
+      <title>Lything and Gracing</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>6</trackNum>
+      <duration>696000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038241</meta>
+    </track>
+    <track>
+      <title>Waterloo Lily</title>
+      <creator>Matching Mole</creator>
+      <album>March</album>
+      <trackNum>7</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US9351038242</meta>
+    </track>
+    <track>
+      <title>Solar Flares</title>
+      <creator>Robert Wyatt</creator>
+      <album>Ruth Is Stranger Than Richard</album>
+      <trackNum>2</trackNum>
+      <duration>336000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800616</meta>
+    </track>
+    <track>
+      <title>I'm A Believer (Previously Unreleased Extended Version)</title>
+      <creator>Robert Wyatt</creator>
+      <album>EPs</album>
+      <trackNum>1</trackNum>
+      <duration>298000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800668</meta>
+    </track>
+    <track>
+      <title>A Last Straw</title>
+      <creator>Robert Wyatt</creator>
+      <album>Different Every Time</album>
+      <trackNum>4</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800707</meta>
+    </track>
+    <track>
+      <title>Slightly All The Time (Remastered 2006)</title>
+      <creator>Soft Machine</creator>
+      <album>Third</album>
+      <trackNum>2</trackNum>
+      <duration>1091000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBBN9999924,GBARL0600677</meta>
+    </track>
+  </trackList>
+</playlist>

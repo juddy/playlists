@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Noises</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p7688163</meta>
+  <meta rel="https://rdio.com/xspf/name">Noises</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/7688163/Noises/</meta>
+  <trackList>
+    <track>
+      <title>Zyklon B Zombie (32AR)</title>
+      <creator>Throbbing Gristle</creator>
+      <album>Thirty-Second Annual Report</album>
+      <trackNum>9</trackNum>
+      <duration>402000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBYFG0800009</meta>
+    </track>
+    <track>
+      <title>Cooloorta Moon</title>
+      <creator>Nurse With Wound</creator>
+      <album>Sugar Fish Drink</album>
+      <trackNum>1</trackNum>
+      <duration>356000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CALM40800505</meta>
+    </track>
+    <track>
+      <title>Thief's Spring</title>
+      <creator>Hair Police</creator>
+      <album>Mercurial Rites</album>
+      <trackNum>3</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMXWW1311303</meta>
+    </track>
+    <track>
+      <title>Two Gongs (1971) (Master)</title>
+      <creator>Rhys Chatham</creator>
+      <album>Two Gongs (1971)</album>
+      <trackNum>1</trackNum>
+      <duration>3699000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG4G0673101</meta>
+    </track>
+    <track>
+      <title>Maybe This Song</title>
+      <creator>Bruce Haack</creator>
+      <album>Farad: The Electric Voice</album>
+      <trackNum>4</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2S71021004</meta>
+    </track>
+    <track>
+      <title>Astrology</title>
+      <creator>Pierre Henry</creator>
+      <album>Malefices et musique concrete</album>
+      <trackNum>8</trackNum>
+      <duration>479000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLG620533215</meta>
+    </track>
+  </trackList>
+</playlist>

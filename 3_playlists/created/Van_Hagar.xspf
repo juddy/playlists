@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Van Hagar</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p15232180</meta>
+  <meta rel="https://rdio.com/xspf/name">Van Hagar</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/15232180/Van_Hagar/</meta>
+  <trackList>
+    <track>
+      <title>Summer Nights</title>
+      <creator>Van Halen</creator>
+      <album>5150</album>
+      <trackNum>5</trackNum>
+      <duration>305000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902264</meta>
+    </track>
+    <track>
+      <title>Black And Blue</title>
+      <creator>Van Halen</creator>
+      <album>OU812</album>
+      <trackNum>8</trackNum>
+      <duration>325000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902246,USWB10101587</meta>
+    </track>
+    <track>
+      <title>Good Enough</title>
+      <creator>Van Halen</creator>
+      <album>5150</album>
+      <trackNum>1</trackNum>
+      <duration>243000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902260</meta>
+    </track>
+    <track>
+      <title>Best of Both Worlds</title>
+      <creator>Van Halen</creator>
+      <album>5150</album>
+      <trackNum>6</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902265</meta>
+    </track>
+    <track>
+      <title>Poundcake</title>
+      <creator>Van Halen</creator>
+      <album>For Unlawful Carnal Knowledge</album>
+      <trackNum>1</trackNum>
+      <duration>319000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902249,USWB19000028</meta>
+    </track>
+    <track>
+      <title>Mine All Mine</title>
+      <creator>Van Halen</creator>
+      <album>OU812</album>
+      <trackNum>1</trackNum>
+      <duration>312000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10101581,USWB10902239</meta>
+    </track>
+    <track>
+      <title>Top Of The World</title>
+      <creator>Van Halen</creator>
+      <album>For Unlawful Carnal Knowledge</album>
+      <trackNum>11</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902259,USWB19000045</meta>
+    </track>
+    <track>
+      <title>"5150"</title>
+      <creator>Van Halen</creator>
+      <album>5150</album>
+      <trackNum>8</trackNum>
+      <duration>342000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902267</meta>
+    </track>
+    <track>
+      <title>Finish What Ya Started</title>
+      <creator>Van Halen</creator>
+      <album>OU812</album>
+      <trackNum>7</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902245,USWB10101586</meta>
+    </track>
+    <track>
+      <title>Runaround</title>
+      <creator>Van Halen</creator>
+      <album>For Unlawful Carnal Knowledge</album>
+      <trackNum>4</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902252,USWB10101890</meta>
+    </track>
+  </trackList>
+</playlist>

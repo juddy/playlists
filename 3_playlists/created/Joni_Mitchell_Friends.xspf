@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Joni Mitchell (&amp; Friends)</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p8004176</meta>
+  <meta rel="https://rdio.com/xspf/name">Joni Mitchell (&amp; Friends)</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/8004176/Joni_Mitchell_(_Friends)/</meta>
+  <trackList>
+    <track>
+      <title>Overture-Cotton Avenue</title>
+      <creator>Joni Mitchell</creator>
+      <album>Don Juan's Reckless Daughter</album>
+      <trackNum>1</trackNum>
+      <duration>402000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170389</meta>
+    </track>
+    <track>
+      <title>Coyote</title>
+      <creator>Joni Mitchell</creator>
+      <album>Hejira</album>
+      <trackNum>1</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170387</meta>
+    </track>
+    <track>
+      <title>The Jungle Line</title>
+      <creator>Joni Mitchell</creator>
+      <album>The Hissing Of Summer Lawns</album>
+      <trackNum>2</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170371</meta>
+    </track>
+    <track>
+      <title>You Turn Me On I'm A Radio</title>
+      <creator>Joni Mitchell</creator>
+      <album>For The Roses</album>
+      <trackNum>9</trackNum>
+      <duration>160000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170353</meta>
+    </track>
+    <track>
+      <title>Furry Sings The Blues</title>
+      <creator>Joni Mitchell</creator>
+      <album>Hejira</album>
+      <trackNum>3</trackNum>
+      <duration>308000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170380</meta>
+    </track>
+    <track>
+      <title>Black Crow</title>
+      <creator>Joni Mitchell</creator>
+      <album>Hejira</album>
+      <trackNum>7</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170384</meta>
+    </track>
+    <track>
+      <title>In France They Kiss On Main Street</title>
+      <creator>Joni Mitchell</creator>
+      <album>The Hissing Of Summer Lawns</album>
+      <trackNum>1</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170370</meta>
+    </track>
+    <track>
+      <title>Pat's Solo (Live Version)</title>
+      <creator>Joni Mitchell</creator>
+      <album>Shadows And Light</album>
+      <trackNum>8</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE18059008</meta>
+    </track>
+    <track>
+      <title>Talk To Me</title>
+      <creator>Joni Mitchell</creator>
+      <album>Don Juan's Reckless Daughter</album>
+      <trackNum>2</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170390</meta>
+    </track>
+    <track>
+      <title>The Hissing Of Summer Lawns</title>
+      <creator>Joni Mitchell</creator>
+      <album>The Hissing Of Summer Lawns</album>
+      <trackNum>6</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170375</meta>
+    </track>
+    <track>
+      <title>A Chair In The Sky</title>
+      <creator>Joni Mitchell</creator>
+      <album>Mingus</album>
+      <trackNum>4</trackNum>
+      <duration>402000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170398</meta>
+    </track>
+    <track>
+      <title>Don Juan's Reckless Daughter</title>
+      <creator>Joni Mitchell</creator>
+      <album>Don Juan's Reckless Daughter</album>
+      <trackNum>8</trackNum>
+      <duration>399000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10170395</meta>
+    </track>
+    <track>
+      <title>Hejira (Live Version)</title>
+      <creator>Joni Mitchell</creator>
+      <album>Shadows And Light</album>
+      <trackNum>9</trackNum>
+      <duration>472000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE18059009</meta>
+    </track>
+  </trackList>
+</playlist>

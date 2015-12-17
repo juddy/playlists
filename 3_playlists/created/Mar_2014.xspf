@@ -1,0 +1,28 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Mar 2014</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p8648529</meta>
+  <meta rel="https://rdio.com/xspf/name">Mar 2014</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/8648529/Mar_2014/</meta>
+  <trackList>
+    <track>
+      <title>Cover Up</title>
+      <creator>Trevor Rabin</creator>
+      <album>Can't Look Away</album>
+      <trackNum>4</trackNum>
+      <duration>317000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10183020</meta>
+    </track>
+    <track>
+      <title>Lamp That</title>
+      <creator>Equal Local</creator>
+      <album>Can't Stop It! Australian Post-Punk 1978-82</album>
+      <trackNum>14</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUCI10603714</meta>
+    </track>
+  </trackList>
+</playlist>

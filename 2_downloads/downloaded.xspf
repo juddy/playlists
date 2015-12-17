@@ -1,0 +1,1102 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Downloaded tracks for Juddy .</title>
+  <creator>Juddy .</creator>
+  <meta rel="https://rdio.com/xspf/length">136</meta>
+  <meta rel="https://rdio.com/xspf/name">Downloaded tracks for Juddy .</meta>
+  <meta rel="https://rdio.com/xspf/owner">Juddy .</meta>
+  <meta rel="https://rdio.com/xspf/ownerKey">s447003</meta>
+  <meta rel="https://rdio.com/xspf/ownerUrl">/people/juddy/</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">2_downloads</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">None</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/s447003/downloaded/</meta>
+  <trackList>
+    <track>
+      <title>Pipe</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>6</trackNum>
+      <duration>200000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510057</meta>
+    </track>
+    <track>
+      <title>Time Collapse II / The 7th Terror</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>1</trackNum>
+      <duration>425000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510052</meta>
+    </track>
+    <track>
+      <title>Rat Race</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>2</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510053</meta>
+    </track>
+    <track>
+      <title>Let It Live</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>3</trackNum>
+      <duration>320000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510054</meta>
+    </track>
+    <track>
+      <title>Pollinate</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>4</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510055</meta>
+    </track>
+    <track>
+      <title>Bringer of Light</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>5</trackNum>
+      <duration>281000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510056</meta>
+    </track>
+    <track>
+      <title>Say Hello</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>7</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510058</meta>
+    </track>
+    <track>
+      <title>Burning Wreath</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>8</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510059</meta>
+    </track>
+    <track>
+      <title>II</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>14</trackNum>
+      <duration>828000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510065</meta>
+    </track>
+    <track>
+      <title>Silent Sits the Dust Bowl</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>13</trackNum>
+      <duration>358000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510064</meta>
+    </track>
+    <track>
+      <title>Sleestak</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>12</trackNum>
+      <duration>154000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510063</meta>
+    </track>
+    <track>
+      <title>New Flesh</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>11</trackNum>
+      <duration>151000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510062</meta>
+    </track>
+    <track>
+      <title>Jack the Maggot</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>10</trackNum>
+      <duration>249000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510061</meta>
+    </track>
+    <track>
+      <title>Red Flag</title>
+      <creator>Fuzz</creator>
+      <album>II</album>
+      <trackNum>9</trackNum>
+      <duration>108000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3D1510060</meta>
+    </track>
+    <track>
+      <title>Raining In My Heart</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>82</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800693</meta>
+    </track>
+    <track>
+      <title>Lullaby For Hamza</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>83</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800694</meta>
+    </track>
+    <track>
+      <title>Trickle Down</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>84</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800695</meta>
+    </track>
+    <track>
+      <title>Insensatez</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>85</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800696</meta>
+    </track>
+    <track>
+      <title>Mister E</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>86</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800697</meta>
+    </track>
+    <track>
+      <title>Lullaloop</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>87</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800698</meta>
+    </track>
+    <track>
+      <title>Life Is Sheep</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>88</trackNum>
+      <duration>254000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800699</meta>
+    </track>
+    <track>
+      <title>Foreign Accents</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>89</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800700</meta>
+    </track>
+    <track>
+      <title>Dedicated To You But You Weren't Listening</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>93</trackNum>
+      <duration>96000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800704</meta>
+    </track>
+    <track>
+      <title>La Ahada Yalam</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>91</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800702</meta>
+    </track>
+    <track>
+      <title>Introduction by John Peel</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>92</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800703</meta>
+    </track>
+    <track>
+      <title>Brian The Fox</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>90</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800701</meta>
+    </track>
+    <track>
+      <title>Cuckoo Madame</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>81</trackNum>
+      <duration>320000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800692</meta>
+    </track>
+    <track>
+      <title>Beware</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>80</trackNum>
+      <duration>309000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800691</meta>
+    </track>
+    <track>
+      <title>Biko</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>69</trackNum>
+      <duration>277000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800680</meta>
+    </track>
+    <track>
+      <title>Amber And The Amberines</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>70</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800681</meta>
+    </track>
+    <track>
+      <title>The Animals' Film</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>71</trackNum>
+      <duration>1178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800682</meta>
+    </track>
+    <track>
+      <title>Was A Friend (Remix)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>72</trackNum>
+      <duration>350000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800683</meta>
+    </track>
+    <track>
+      <title>Maryan (Remix)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>73</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800684</meta>
+    </track>
+    <track>
+      <title>A Sunday In Madrid (Remix)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>74</trackNum>
+      <duration>420000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800685</meta>
+    </track>
+    <track>
+      <title>Free Will And Testament (Remix)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>75</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800686</meta>
+    </track>
+    <track>
+      <title>Just A Bit</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>76</trackNum>
+      <duration>309000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800687</meta>
+    </track>
+    <track>
+      <title>Old Europe</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>77</trackNum>
+      <duration>255000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800688</meta>
+    </track>
+    <track>
+      <title>Tom Hay's Fox</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>78</trackNum>
+      <duration>213000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800689</meta>
+    </track>
+    <track>
+      <title>Forest</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>79</trackNum>
+      <duration>475000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800690</meta>
+    </track>
+    <track>
+      <title>Memories</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>94</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800705</meta>
+    </track>
+    <track>
+      <title>Sea Song</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>95</trackNum>
+      <duration>553000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800706</meta>
+    </track>
+    <track>
+      <title>A Last Straw</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>96</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800707</meta>
+    </track>
+    <track>
+      <title>A Beautiful Peace</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>111</trackNum>
+      <duration>148000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700368</meta>
+    </track>
+    <track>
+      <title>Be Serious</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>112</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700369</meta>
+    </track>
+    <track>
+      <title>On The Town Square</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>113</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700370</meta>
+    </track>
+    <track>
+      <title>Mob Rule</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>114</trackNum>
+      <duration>135000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700371</meta>
+    </track>
+    <track>
+      <title>A Beautiful War</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>115</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700372</meta>
+    </track>
+    <track>
+      <title>Out Of The Blue</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>116</trackNum>
+      <duration>225000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700373</meta>
+    </track>
+    <track>
+      <title>Del Mondo</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>117</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700374</meta>
+    </track>
+    <track>
+      <title>Cancion de Julieta</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>118</trackNum>
+      <duration>453000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700375</meta>
+    </track>
+    <track>
+      <title>Pastafari</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>119</trackNum>
+      <duration>277000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700376</meta>
+    </track>
+    <track>
+      <title>Fragment</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>120</trackNum>
+      <duration>99000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700377</meta>
+    </track>
+    <track>
+      <title>Hasta Siempre Comandante</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>121</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700378</meta>
+    </track>
+    <track>
+      <title>A.W.O.L.</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>109</trackNum>
+      <duration>178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700366</meta>
+    </track>
+    <track>
+      <title>You You</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>108</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700365</meta>
+    </track>
+    <track>
+      <title>Little Red Riding Hood Hit The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>97</trackNum>
+      <duration>402000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800708</meta>
+    </track>
+    <track>
+      <title>Alife</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>98</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800709</meta>
+    </track>
+    <track>
+      <title>Alifib</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>99</trackNum>
+      <duration>384000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800710</meta>
+    </track>
+    <track>
+      <title>Mind Of A Child</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>100</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800711</meta>
+    </track>
+    <track>
+      <title>Instant Pussy</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>101</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800712</meta>
+    </track>
+    <track>
+      <title>Anachronist</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>110</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700367</meta>
+    </track>
+    <track>
+      <title>Calyx</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>103</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800714</meta>
+    </track>
+    <track>
+      <title>Little Red Robin Hood Hits The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>104</trackNum>
+      <duration>372000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800715</meta>
+    </track>
+    <track>
+      <title>I'm A Believer</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>105</trackNum>
+      <duration>761000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800716</meta>
+    </track>
+    <track>
+      <title>Stay Tuned</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>106</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700363</meta>
+    </track>
+    <track>
+      <title>Just As You Are</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>107</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700364</meta>
+    </track>
+    <track>
+      <title>Signed Curtain</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>102</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800713</meta>
+    </track>
+    <track>
+      <title>Te Recuerdo Amanda</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>68</trackNum>
+      <duration>213000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800679</meta>
+    </track>
+    <track>
+      <title>Sea Song</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>1</trackNum>
+      <duration>391000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800609</meta>
+    </track>
+    <track>
+      <title>Grass</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>19</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800627</meta>
+    </track>
+    <track>
+      <title>Stalin Wasn't Stallin'</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>20</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800628</meta>
+    </track>
+    <track>
+      <title>Red Flag</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>21</trackNum>
+      <duration>190000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800629</meta>
+    </track>
+    <track>
+      <title>Strange Fruit</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>22</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800630</meta>
+    </track>
+    <track>
+      <title>Arauco</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>23</trackNum>
+      <duration>275000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800631</meta>
+    </track>
+    <track>
+      <title>Trade Union</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>24</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800632</meta>
+    </track>
+    <track>
+      <title>Stalingrad</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>25</trackNum>
+      <duration>348000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800633</meta>
+    </track>
+    <track>
+      <title>Alliance</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>26</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800634</meta>
+    </track>
+    <track>
+      <title>The United States Of Amnesia</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>27</trackNum>
+      <duration>350000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800635</meta>
+    </track>
+    <track>
+      <title>East Timor</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>28</trackNum>
+      <duration>172000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800636</meta>
+    </track>
+    <track>
+      <title>Speechless</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>29</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800637</meta>
+    </track>
+    <track>
+      <title>The Age of Self</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>30</trackNum>
+      <duration>170000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800638</meta>
+    </track>
+    <track>
+      <title>Vandalusia</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>31</trackNum>
+      <duration>164000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800639</meta>
+    </track>
+    <track>
+      <title>The British Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>32</trackNum>
+      <duration>383000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800640</meta>
+    </track>
+    <track>
+      <title>Caimanera</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>18</trackNum>
+      <duration>322000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800626</meta>
+    </track>
+    <track>
+      <title>At Last I Am Free</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>17</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800625</meta>
+    </track>
+    <track>
+      <title>Born Again Cretin</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>16</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800624</meta>
+    </track>
+    <track>
+      <title>A Last Straw</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>2</trackNum>
+      <duration>346000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800610</meta>
+    </track>
+    <track>
+      <title>Little Red Riding Hood Hit The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>3</trackNum>
+      <duration>460000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800611</meta>
+    </track>
+    <track>
+      <title>Alifib</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>4</trackNum>
+      <duration>415000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800612</meta>
+    </track>
+    <track>
+      <title>Alife</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>5</trackNum>
+      <duration>391000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800613</meta>
+    </track>
+    <track>
+      <title>Little Red Robin Hood Hit The Road</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>6</trackNum>
+      <duration>368000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800614</meta>
+    </track>
+    <track>
+      <title>Muddy Mouse (a)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>7</trackNum>
+      <duration>49000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800615</meta>
+    </track>
+    <track>
+      <title>Solar Flares</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>8</trackNum>
+      <duration>336000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800616</meta>
+    </track>
+    <track>
+      <title>Muddy Mouse (b)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>9</trackNum>
+      <duration>50000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800617</meta>
+    </track>
+    <track>
+      <title>5 Black Notes and 1 White Note</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>10</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800618</meta>
+    </track>
+    <track>
+      <title>Muddy Mouse (c) which in turn leads to Muddy Mouth</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>11</trackNum>
+      <duration>375000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800619</meta>
+    </track>
+    <track>
+      <title>Soup Song</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>12</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800620</meta>
+    </track>
+    <track>
+      <title>Sonia</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>13</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800621</meta>
+    </track>
+    <track>
+      <title>Team Spirit</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>14</trackNum>
+      <duration>513000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800622</meta>
+    </track>
+    <track>
+      <title>Song For Che</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>15</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800623</meta>
+    </track>
+    <track>
+      <title>Mass Medium</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>33</trackNum>
+      <duration>283000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800641</meta>
+    </track>
+    <track>
+      <title>Gharbzadegi</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>34</trackNum>
+      <duration>474000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800642</meta>
+    </track>
+    <track>
+      <title>P.L.A.</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>35</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800643</meta>
+    </track>
+    <track>
+      <title>Out Of Season</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>53</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800663</meta>
+    </track>
+    <track>
+      <title>A Sunday In Madrid</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>54</trackNum>
+      <duration>280000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800664</meta>
+    </track>
+    <track>
+      <title>Blues in Bob minor</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>55</trackNum>
+      <duration>346000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800665</meta>
+    </track>
+    <track>
+      <title>The Whole Point of No Return</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>56</trackNum>
+      <duration>85000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800666</meta>
+    </track>
+    <track>
+      <title>I'm A Believer</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>57</trackNum>
+      <duration>298000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800668</meta>
+    </track>
+    <track>
+      <title>Memories</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>58</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800669</meta>
+    </track>
+    <track>
+      <title>Yesterday Man</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>59</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800670</meta>
+    </track>
+    <track>
+      <title>Sonia</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>60</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800671</meta>
+    </track>
+    <track>
+      <title>Calyx (Live)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>61</trackNum>
+      <duration>184000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800672</meta>
+    </track>
+    <track>
+      <title>Shipbuilding</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>62</trackNum>
+      <duration>186000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800673</meta>
+    </track>
+    <track>
+      <title>Memories Of You</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>63</trackNum>
+      <duration>177000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800674</meta>
+    </track>
+    <track>
+      <title>Round Midnight</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>64</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800675</meta>
+    </track>
+    <track>
+      <title>Pigs... (In There)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>65</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800676</meta>
+    </track>
+    <track>
+      <title>Chairman Mao</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>66</trackNum>
+      <duration>375000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800677</meta>
+    </track>
+    <track>
+      <title>Alien</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>52</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800662</meta>
+    </track>
+    <track>
+      <title>September The Ninth</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>51</trackNum>
+      <duration>400000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800661</meta>
+    </track>
+    <track>
+      <title>Free Will And Testament</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>50</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800660</meta>
+    </track>
+    <track>
+      <title>CP Jeebies</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>36</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800646</meta>
+    </track>
+    <track>
+      <title>N.I.O. (New Information Order)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>37</trackNum>
+      <duration>397000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800647</meta>
+    </track>
+    <track>
+      <title>Dondestan</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>38</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800648</meta>
+    </track>
+    <track>
+      <title>Sign Of The Wind</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>39</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800649</meta>
+    </track>
+    <track>
+      <title>Shrinkwrap</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>40</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800650</meta>
+    </track>
+    <track>
+      <title>Catholic Architecture</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>41</trackNum>
+      <duration>302000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800651</meta>
+    </track>
+    <track>
+      <title>Worship</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>42</trackNum>
+      <duration>353000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800652</meta>
+    </track>
+    <track>
+      <title>Costa (Memories of Under-Development)</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>43</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800653</meta>
+    </track>
+    <track>
+      <title>Left On Man</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>44</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800654</meta>
+    </track>
+    <track>
+      <title>Lisp Service</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>45</trackNum>
+      <duration>132000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800655</meta>
+    </track>
+    <track>
+      <title>Heaps of Sheeps</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>46</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800656</meta>
+    </track>
+    <track>
+      <title>The Duchess</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>47</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800657</meta>
+    </track>
+    <track>
+      <title>Maryan</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>48</trackNum>
+      <duration>371000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800658</meta>
+    </track>
+    <track>
+      <title>Was A Friend</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>49</trackNum>
+      <duration>371000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800659</meta>
+    </track>
+    <track>
+      <title>Yolanda</title>
+      <creator>Robert Wyatt</creator>
+      <album>Box Set</album>
+      <trackNum>67</trackNum>
+      <duration>253000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0800678</meta>
+    </track>
+    <track>
+      <title>Linus &amp; Lucy</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>4</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600051</meta>
+    </track>
+  </trackList>
+</playlist>

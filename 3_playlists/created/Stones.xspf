@@ -1,0 +1,68 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Stones</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p10950662</meta>
+  <meta rel="https://rdio.com/xspf/name">Stones</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/10950662/Stones/</meta>
+  <trackList>
+    <track>
+      <title>Monkey Man</title>
+      <creator>The Rolling Stones</creator>
+      <album>Let It Bleed</album>
+      <trackNum>8</trackNum>
+      <duration>251000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176910090</meta>
+    </track>
+    <track>
+      <title>Midnight Rambler</title>
+      <creator>The Rolling Stones</creator>
+      <album>Let It Bleed</album>
+      <trackNum>6</trackNum>
+      <duration>413000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176910070</meta>
+    </track>
+    <track>
+      <title>Loving Cup</title>
+      <creator>The Rolling Stones</creator>
+      <album>Exile On Main Street (Deluxe Version)</album>
+      <trackNum>9</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJN7200009</meta>
+    </track>
+    <track>
+      <title>Can't You Hear Me Knocking</title>
+      <creator>The Rolling Stones</creator>
+      <album>Sticky Fingers (Remastered)</album>
+      <trackNum>4</trackNum>
+      <duration>434000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70909467</meta>
+    </track>
+    <track>
+      <title>Before They Make Me Run</title>
+      <creator>The Rolling Stones</creator>
+      <album>Some Girls (Deluxe Version)</album>
+      <trackNum>8</trackNum>
+      <duration>205000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJN7800008</meta>
+    </track>
+    <track>
+      <title>Bitch</title>
+      <creator>The Rolling Stones</creator>
+      <album>Jump Back - The Best Of The Rolling Stones, '71 - '93 (2009 Re-mastered)</album>
+      <trackNum>17</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70909469</meta>
+    </track>
+    <track>
+      <title>Soul Survivor</title>
+      <creator>The Rolling Stones</creator>
+      <album>Exile On Main Street (Deluxe Version)</album>
+      <trackNum>18</trackNum>
+      <duration>229000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJN7200018</meta>
+    </track>
+  </trackList>
+</playlist>

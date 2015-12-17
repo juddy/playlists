@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Summer15</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p14102997</meta>
+  <meta rel="https://rdio.com/xspf/name">Summer15</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/14102997/Summer15/</meta>
+  <trackList>
+    <track>
+      <title>I Need A Miracle [Live at Winterland, December 31, 1978]</title>
+      <creator>Grateful Dead</creator>
+      <album>The Closing Of Winterland: December 31, 1978</album>
+      <trackNum>13</trackNum>
+      <duration>677000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900908</meta>
+    </track>
+    <track>
+      <title>Stagger Lee [Live at Winterland, December 31, 1978]</title>
+      <creator>Grateful Dead</creator>
+      <album>The Closing Of Winterland: December 31, 1978</album>
+      <trackNum>8</trackNum>
+      <duration>479000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900899</meta>
+    </track>
+    <track>
+      <title>Foolish Heart</title>
+      <creator>Grateful Dead</creator>
+      <album>Built To Last</album>
+      <trackNum>1</trackNum>
+      <duration>311000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10802325,USRH11300882</meta>
+    </track>
+    <track>
+      <title>Feel Like A Stranger (Live October 1989 - April 1990)</title>
+      <creator>Grateful Dead</creator>
+      <album>Without A Net</album>
+      <trackNum>1</trackNum>
+      <duration>451000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900932</meta>
+    </track>
+    <track>
+      <title>Althea (Live October 1989 - April 1990)</title>
+      <creator>Grateful Dead</creator>
+      <album>Without A Net</album>
+      <trackNum>4</trackNum>
+      <duration>415000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900939</meta>
+    </track>
+    <track>
+      <title>Lazy Lightnin'</title>
+      <creator>Bob Weir</creator>
+      <album>Kingfish</album>
+      <trackNum>1</trackNum>
+      <duration>182000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900361</meta>
+    </track>
+    <track>
+      <title>Supplication</title>
+      <creator>Bob Weir</creator>
+      <album>Kingfish</album>
+      <trackNum>2</trackNum>
+      <duration>176000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900362</meta>
+    </track>
+    <track>
+      <title>Jump For Joy</title>
+      <creator>Bob Weir</creator>
+      <album>Kingfish</album>
+      <trackNum>6</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10900366</meta>
+    </track>
+    <track>
+      <title>Morning In Marin</title>
+      <creator>Jerry Garcia</creator>
+      <album>Hooteroll?</album>
+      <trackNum>1</trackNum>
+      <duration>423000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3E40900750</meta>
+    </track>
+    <track>
+      <title>Evening In Marin</title>
+      <creator>Jerry Garcia</creator>
+      <album>Hooteroll?</album>
+      <trackNum>9</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3E40900758</meta>
+    </track>
+    <track>
+      <title>Throwing Stones</title>
+      <creator>Grateful Dead</creator>
+      <album>In The Dark</album>
+      <trackNum>6</trackNum>
+      <duration>440000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10802438,USRH11301610</meta>
+    </track>
+  </trackList>
+</playlist>

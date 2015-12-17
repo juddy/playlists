@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>4Rowann</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p11525597</meta>
+  <meta rel="https://rdio.com/xspf/name">4Rowann</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/11525597/4Rowann/</meta>
+  <trackList>
+    <track>
+      <title>Sweetie &amp; Shag (Featuring Kazu Makino)</title>
+      <creator>Battles</creator>
+      <album>Gloss Drop</album>
+      <trackNum>8</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1100052</meta>
+    </track>
+    <track>
+      <title>Inchworm</title>
+      <creator>Battles</creator>
+      <album>Gloss Drop</album>
+      <trackNum>4</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1100048</meta>
+    </track>
+    <track>
+      <title>Golden Gate</title>
+      <creator>STS9</creator>
+      <album>When the Dust Settles - EP</album>
+      <trackNum>4</trackNum>
+      <duration>312000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US99W1105004</meta>
+    </track>
+    <track>
+      <title>Tour De France Étape 3 (2009 Remastered Version)</title>
+      <creator>Kraftwerk</creator>
+      <album>Tour De France (2009 Remastered Version)</album>
+      <trackNum>4</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB01A0900395</meta>
+    </track>
+    <track>
+      <title>Autobahn (2009 Remastered Version)</title>
+      <creator>Kraftwerk</creator>
+      <album>Autobahn (2009 Remastered Version)</album>
+      <trackNum>1</trackNum>
+      <duration>1367000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB01A0900374</meta>
+    </track>
+    <track>
+      <title>The Man Machine (Live)</title>
+      <creator>Kraftwerk</creator>
+      <album>Minimum - Maximum</album>
+      <trackNum>1</trackNum>
+      <duration>475000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0402446</meta>
+    </track>
+    <track>
+      <title>Lonely Woman</title>
+      <creator>Ornette Coleman</creator>
+      <album>The Shape Of Jazz To Come</album>
+      <trackNum>1</trackNum>
+      <duration>297000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USV351351732,GBLGL0901429,USAT20104716,GBJUT0917716,USCHR1356322,GB4FJ0910588,USA561269452,FR6V80243260,USCHR1356316,GBVUT1052126,USV351303763</meta>
+    </track>
+    <track>
+      <title>Focus On Sanity</title>
+      <creator>Ornette Coleman</creator>
+      <album>The Shape Of Jazz To Come</album>
+      <trackNum>4</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVUT1052129,GBJUT0917719,GB4FJ0910591,USV351351735,USAT20104712,USCHR1356325,FR6V80243263,USA561269455,USV351303766,USCHR1356319,GBLGL0910410</meta>
+    </track>
+    <track>
+      <title>Enigmatic Ocean, Part lll</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Enigmatic Ocean</album>
+      <trackNum>6</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180854</meta>
+    </track>
+    <track>
+      <title>Cosmic Messenger</title>
+      <creator>Jean-Luc Ponty</creator>
+      <album>Cosmic Messenger</album>
+      <trackNum>1</trackNum>
+      <duration>282000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20180803</meta>
+    </track>
+  </trackList>
+</playlist>

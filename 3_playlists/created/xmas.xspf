@@ -1,0 +1,476 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>xmas</title>
+  <creator>juddy</creator>
+  <meta rel="https://rdio.com/xspf/key">p1905650</meta>
+  <meta rel="https://rdio.com/xspf/name">xmas</meta>
+  <meta rel="https://rdio.com/xspf/owner">juddy</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/juddy/playlists/1905650/xmas/</meta>
+  <trackList>
+    <track>
+      <title>Santa Claus And His Old Lady</title>
+      <creator>Cheech &amp; Chong</creator>
+      <album>Santa Claus And His Old Lady</album>
+      <trackNum>1</trackNum>
+      <duration>385000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA370982681</meta>
+    </track>
+    <track>
+      <title>The Twelve Days Of Christmas</title>
+      <creator>Doug McKenzie, Bob McKenzie</creator>
+      <album>Great White North</album>
+      <trackNum>15</trackNum>
+      <duration>285000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPR38109158</meta>
+    </track>
+    <track>
+      <title>Mele Kalikimaka (Merry Christmas)</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>12</trackNum>
+      <duration>175000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0123012</meta>
+    </track>
+    <track>
+      <title>A Christmas Song</title>
+      <creator>Jethro Tull</creator>
+      <album>Christmas Album</album>
+      <trackNum>3</trackNum>
+      <duration>167000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA371006760</meta>
+    </track>
+    <track>
+      <title>Linus &amp; Lucy</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>4</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600051</meta>
+    </track>
+    <track>
+      <title>Christmastime Is Here (Alternate Vocal Take 5)</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>16</trackNum>
+      <duration>86000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600063</meta>
+    </track>
+    <track>
+      <title>Fanfare For The Common Man (Album Version)</title>
+      <creator>Emerson, Lake &amp; Palmer</creator>
+      <album>Come And See The Show: The Best Of Emerson Lake &amp; Palmer</album>
+      <trackNum>10</trackNum>
+      <duration>582000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSE90624004</meta>
+    </track>
+    <track>
+      <title>Feliz Navidad</title>
+      <creator>José Feliciano</creator>
+      <album>Feliz Navidad</album>
+      <trackNum>1</trackNum>
+      <duration>181000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC19305793</meta>
+    </track>
+    <track>
+      <title>The Fifth Door - Frenetic Energy</title>
+      <creator>Mannheim Steamroller</creator>
+      <album>The Fresh Aire Music of Mannheim Steamroller</album>
+      <trackNum>9</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZXT1114374</meta>
+    </track>
+    <track>
+      <title>A Holly Jolly Christmas</title>
+      <creator>Burl Ives</creator>
+      <album>Have A Holly Jolly Christmas</album>
+      <trackNum>1</trackNum>
+      <duration>136000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16414508</meta>
+    </track>
+    <track>
+      <title>Happy Xmas (War Is Over)</title>
+      <creator>John Lennon, Yoko Ono, The Plastic Ono Band, The Harlem Community Choir</creator>
+      <album>Now That's What I Call Christmas!</album>
+      <trackNum>19</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE7200019</meta>
+    </track>
+    <track>
+      <title>Christmas Time Is Here (Intrumental - Album Version)</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>Charlie Brown's Holiday Hits (Remastered)</album>
+      <trackNum>0</trackNum>
+      <duration>0</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs" />
+    </track>
+    <track>
+      <title>Grandma Got Run over by a Reindeer</title>
+      <creator>Elmo &amp; Patsy</creator>
+      <album>Grandma Got Run Over By A Reindeer</album>
+      <trackNum>1</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18400733</meta>
+    </track>
+    <track>
+      <title>It's the Most Wonderful Time of the Year</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>4</trackNum>
+      <duration>152000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221117,USSM16300086</meta>
+    </track>
+    <track>
+      <title>Feliz Navidad</title>
+      <creator>José Feliciano</creator>
+      <album>Feliz Navidad</album>
+      <trackNum>1</trackNum>
+      <duration>181000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC19305793</meta>
+    </track>
+    <track>
+      <title>Merry Christmas Darling</title>
+      <creator>The Carpenters</creator>
+      <album>From The Top</album>
+      <trackNum>20</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0129689</meta>
+    </track>
+    <track>
+      <title>I Saw Mommy Kissing Santa Claus</title>
+      <creator>John Mellencamp</creator>
+      <album>A Very Special Christmas (Volume 1)</album>
+      <trackNum>6</trackNum>
+      <duration>160000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUG10400524</meta>
+    </track>
+    <track>
+      <title>Little Saint Nick (1991 Remix)</title>
+      <creator>The Beach Boys</creator>
+      <album>Christmas With The Beach Boys</album>
+      <trackNum>1</trackNum>
+      <duration>122000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29100193</meta>
+    </track>
+    <track>
+      <title>Wonderful Christmastime [Edited Version] (2011 Remaster)</title>
+      <creator>Paul McCartney</creator>
+      <album>McCartney II (Special Edition)</album>
+      <trackNum>18</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCCS1000181</meta>
+    </track>
+    <track>
+      <title>River</title>
+      <creator>Joni Mitchell</creator>
+      <album>Blue</album>
+      <trackNum>8</trackNum>
+      <duration>245000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19600231</meta>
+    </track>
+    <track>
+      <title>Rockin' Around The Christmas Tree</title>
+      <creator>Brenda Lee</creator>
+      <album>Jingle Bell Rock</album>
+      <trackNum>1</trackNum>
+      <duration>125000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC15848998</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Coming To Town</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>2</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619002</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>1</trackNum>
+      <duration>174000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200904</meta>
+    </track>
+    <track>
+      <title>Here Comes Santa Claus</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>2</trackNum>
+      <duration>112000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200899</meta>
+    </track>
+    <track>
+      <title>First Noel</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>3</trackNum>
+      <duration>128000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200897</meta>
+    </track>
+    <track>
+      <title>Joy to the World</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>4</trackNum>
+      <duration>153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200900</meta>
+    </track>
+    <track>
+      <title>Pretty Paper</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>5</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200902</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>6</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200903</meta>
+    </track>
+    <track>
+      <title>Deck the Halls</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>7</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200895</meta>
+    </track>
+    <track>
+      <title>Away in a Manger</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>8</trackNum>
+      <duration>146000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200796</meta>
+    </track>
+    <track>
+      <title>Hark the Herald Angels Sing</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>9</trackNum>
+      <duration>148000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200898</meta>
+    </track>
+    <track>
+      <title>O' Little Town of Bethlehem</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>10</trackNum>
+      <duration>155000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200901</meta>
+    </track>
+    <track>
+      <title>El Nino</title>
+      <creator>Willie Nelson</creator>
+      <album>Christmas With Willie Nelson</album>
+      <trackNum>11</trackNum>
+      <duration>416000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3L61200896</meta>
+    </track>
+    <track>
+      <title>What Child Is This?</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>1</trackNum>
+      <duration>60000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619001</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Coming To Town</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>2</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619002</meta>
+    </track>
+    <track>
+      <title>Respighi: Ancient Aires and Dances</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>3</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619003</meta>
+    </track>
+    <track>
+      <title>The Christmas Song</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>4</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619004</meta>
+    </track>
+    <track>
+      <title>God Rest Ye Merry Gentlemen</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>5</trackNum>
+      <duration>410000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619005</meta>
+    </track>
+    <track>
+      <title>We Wish You A Merry Christmas</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>6</trackNum>
+      <duration>37000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619006</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>7</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619007</meta>
+    </track>
+    <track>
+      <title>Winter Wonderland</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619009</meta>
+    </track>
+    <track>
+      <title>Auld Lang Syne</title>
+      <creator>David Grisman</creator>
+      <album>Acoustic Christmas</album>
+      <trackNum>11</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRO28619011</meta>
+    </track>
+    <track>
+      <title>Marshmallow World</title>
+      <creator>Dean Martin</creator>
+      <album>The Dean Martin Christmas Album</album>
+      <trackNum>6</trackNum>
+      <duration>163000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEBL61069958</meta>
+    </track>
+    <track>
+      <title>Up on the Housetop</title>
+      <creator>Gene Autry</creator>
+      <album>Centennial Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4MY0770879</meta>
+    </track>
+    <track>
+      <title>Last Christmas</title>
+      <creator>Wham!</creator>
+      <album>LAST CHRISTMAS</album>
+      <trackNum>1</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBBM8400019</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Comin' to Town</title>
+      <creator>The Four Seasons</creator>
+      <album>Santa's Vintage Xmas &amp; Holiday Playlist</album>
+      <trackNum>3</trackNum>
+      <duration>110000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA371576807</meta>
+    </track>
+    <track>
+      <title>Let It Snow! Let It Snow! Let It Snow!</title>
+      <creator>Frank Sinatra</creator>
+      <album>Smash Xmas Crooners Vol 2</album>
+      <trackNum>6</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBXS1134810</meta>
+    </track>
+    <track>
+      <title>Blue Christmas</title>
+      <creator>Elvis Presley</creator>
+      <album>Smash Xmas Crooners Vol 2</album>
+      <trackNum>14</trackNum>
+      <duration>127000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBXS1134825</meta>
+    </track>
+    <track>
+      <title>Christmas Is Near</title>
+      <creator>Ralph Stanley</creator>
+      <album>A Very Special Acoustic Christmas</album>
+      <trackNum>8</trackNum>
+      <duration>144000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR10300287</meta>
+    </track>
+    <track>
+      <title>Jingle Bells</title>
+      <creator>Earl Scruggs</creator>
+      <album>A Very Special Acoustic Christmas</album>
+      <trackNum>7</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR10300286</meta>
+    </track>
+    <track>
+      <title>Let It Snow! Let It Snow! Let It Snow!</title>
+      <creator>Sam Bush</creator>
+      <album>A Very Special Acoustic Christmas</album>
+      <trackNum>12</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR10300291</meta>
+    </track>
+    <track>
+      <title>Merry Christmas</title>
+      <creator>Wesley Willis</creator>
+      <album>Rock n Roll Will Never Die</album>
+      <trackNum>25</trackNum>
+      <duration>175000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USOEG9688625</meta>
+    </track>
+    <track>
+      <title>Pat A Pan</title>
+      <creator>Mannheim Steamroller</creator>
+      <album>Mannheim Steamroller Christmas 25th Anniversary Collection</album>
+      <trackNum>10</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAG20925210</meta>
+    </track>
+    <track>
+      <title>Greensleeves</title>
+      <creator>Mannheim Steamroller</creator>
+      <album>A Fresh Aire Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAG20198809</meta>
+    </track>
+    <track>
+      <title>Joy to the World</title>
+      <creator>Mannheim Steamroller</creator>
+      <album>Mannheim Steamroller Christmas 25th Anniversary Collection</album>
+      <trackNum>8</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAG20925208</meta>
+    </track>
+    <track>
+      <title>Christmas in Oakland</title>
+      <creator>Advance Base</creator>
+      <album>A Shut-In's Prayer</album>
+      <trackNum>5</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM21241381</meta>
+    </track>
+    <track>
+      <title>PAPAT4 [155][pineal mix]</title>
+      <creator>Aphex Twin</creator>
+      <album>Syro</album>
+      <trackNum>10</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400097</meta>
+    </track>
+    <track>
+      <title>Is That A Shoe In Your Pocket</title>
+      <creator>Rainbow Shoe Club</creator>
+      <album>Satisfied Feet</album>
+      <trackNum>8</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB-SMU-19-06722</meta>
+    </track>
+  </trackList>
+</playlist>
